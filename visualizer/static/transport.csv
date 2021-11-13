@@ -1,0 +1,1003 @@
+id,car_name,yr_mfr,date_mfr,fuel_type,kms_run,sale_price,city,times_viewed,body_type,transmission,variant,assured_buy,emi_starts_from,booking_down_pymnt,total_owners
+1,maruti swift dzire,2012,2021-03-16T05:00:49.555,petrol,69029,364299,pune,2068,sedan,manual,vxi 1.2 bs iv,TRUE,8462,54645,3
+2,hyundai eon,2013,2021-03-10T12:08:11.905,petrol,45721,216799,gurgaon,903,hatchback,manual,era plus,TRUE,5036,32520,1
+3,honda amaze,2013,2021-03-15T12:03:30.041,diesel,37395,387399,pune,2809,sedan,manual,1.5 smt i dtec,TRUE,8998,58110,1
+4,hyundai i20,2012,2021-04-09T11:16:26.157,petrol,37652,364699,bengaluru,1054,hatchback,manual,magna o 1.2,TRUE,8471,54705,3
+5,hyundai creta,2017,2021-04-01T07:24:31.712,diesel,53648,1082011,lucknow,2927,suv,automatic,1.6 crdi sx plus auto,TRUE,25132,162302,1
+6,renault duster,2016,2021-03-20T08:11:03.55,petrol,55724,695999,bengaluru,889,suv,manual,rxl petrol 104,TRUE,16166,104400,1
+7,hyundai i10,2010,2021-04-07T05:42:09.856,petrol,59295,286399,chennai,506,hatchback,manual,sportz 1.2 kappa2,TRUE,6652,42960,2
+8,maruti alto k10,2014,2021-01-02T09:04:27.423,petrol,50294,283299,bengaluru,1281,hatchback,manual,vxi,TRUE,6580,42495,1
+9,maruti eeco,2018,2021-03-07T06:08:05.583,petrol & cng,54422,346399,new delhi,864,suv,manual,5 str cng with ac plushtr,TRUE,8046,51960,2
+10,maruti alto k10,2013,2020-12-21T10:01:35.047,petrol,116848,205299,bengaluru,1069,hatchback,manual,vxi,TRUE,4769,30795,1
+11,hyundai venue,2019,2021-04-30T15:58:12.63,petrol,5450,1211594,mumbai,215,suv,,1.0 turbo gdi sx+ at,FALSE,28142,181740,1
+12,mahindra xuv500,2015,2021-04-02T10:25:28.699,diesel,85560,715299,faridabad,245,luxury suv,manual,w8 fwd,TRUE,16615,107295,2
+13,maruti swift,2015,2021-01-12T11:44:59.197,petrol,43743,499099,bengaluru,1233,hatchback,manual,vxi,TRUE,11593,74865,2
+14,maruti ritz,2012,2021-01-11T10:06:36.131,diesel,72428,203899,new delhi,1164,hatchback,manual,ldi,TRUE,4736,30585,1
+15,hyundai eon,2014,2021-02-20T07:44:30.52,petrol,26839,224999,new delhi,1010,hatchback,manual,era plus,TRUE,5226,33750,1
+16,toyota corolla altis,2009,2021-03-06T06:54:12.098,petrol,246967,307999,mumbai,528,luxury sedan,,1.8 g,FALSE,7154,46200,2
+17,hyundai santro xing,2008,2021-04-20T11:03:48.591,petrol,71758,157399,mumbai,263,hatchback,manual,gls,FALSE,3656,23610,1
+18,hyundai i10,2012,2021-03-11T11:55:01.655,petrol,41632,383999,hyderabad,2472,hatchback,automatic,sportz 1.2 at kappa2,TRUE,8919,57600,1
+19,honda city,2015,2021-03-07T07:48:50.813,petrol,121587,620299,hyderabad,935,sedan,manual,vx mt petrol,TRUE,14408,93045,1
+20,maruti alto,2011,2021-04-12T10:48:44.875,petrol,26173,188399,ghaziabad,1657,hatchback,manual,lxi,TRUE,4376,28260,2
+21,maruti swift,2015,2019-08-22T11:33:45.968,diesel,61537,450000,ahmedabad,361,,,vdi glory edition,FALSE,10452,67500,1
+22,maruti wagon r 1.0,2010,2020-12-31T07:54:44.416,petrol,29699,210099,mumbai,843,hatchback,manual,vxi,TRUE,4880,31515,1
+23,hyundai creta,2019,2021-03-27T13:21:05.604,petrol,31118,1155236,ahmedabad,31420,suv,,1.6 sx (o) vtvt,TRUE,26833,173286,1
+24,hyundai santro xing,2008,2021-03-15T06:01:02.972,petrol,20719,242299,bengaluru,61930,hatchback,manual,gls,TRUE,5628,36345,1
+25,hyundai i10,2012,2021-03-17T12:13:32.082,petrol,11420,270799,pune,863,hatchback,manual,sportz 1.2 kappa2,TRUE,6290,40620,2
+26,hyundai i20,2011,2021-03-07T09:44:28.911,petrol,82120,387899,hyderabad,1489,hatchback,manual,asta 1.2,TRUE,9010,58185,1
+27,maruti swift dzire,2012,2021-03-14T08:54:25.487,diesel,92029,417399,mumbai,252,sedan,manual,vdi bs iv,TRUE,9695,62610,2
+28,maruti dzire,2019,2021-04-14T11:56:06.902,petrol,7723,651999,pune,978,sedan,manual,vxi,TRUE,15144,97800,1
+29,volkswagen polo,2011,2021-02-08T07:56:46.898,petrol,50372,305099,mumbai,1219,hatchback,manual,highline1.2l petrol,TRUE,7087,45765,2
+30,mahindra scorpio,2014,2021-04-16T10:09:32.304,diesel,156184,830699,mumbai,957,suv,manual,s10,FALSE,19295,124605,1
+31,maruti swift dzire,2013,2021-01-08T06:34:14.988,diesel,59531,504899,bengaluru,1016,sedan,manual,zdi,FALSE,11728,75735,1
+32,tata nano,2010,2021-03-31T06:14:55.961,petrol,9278,89099,bengaluru,5908,hatchback,manual,lx,TRUE,2070,13365,1
+33,maruti vitara brezza,2016,2021-03-20T13:13:53.406,diesel,25881,802199,ahmedabad,709,suv,manual,zdi plus dual tone,TRUE,18633,120330,1
+34,jeep compass,2017,2021-02-19T16:18:49.301,diesel,25491,1389758,mumbai,2578,luxury suv,manual,2.0 limited,TRUE,32281,208464,2
+35,renault kwid,2019,2021-02-15T13:18:41.702,petrol,1222,397799,mumbai,3254,hatchback,manual,rxt opt,FALSE,9240,59670,1
+36,honda city,2011,2021-04-15T10:03:24.426,petrol,80062,394099,pune,1387,sedan,automatic,v at,TRUE,9154,59115,1
+37,maruti baleno,2017,2021-03-26T09:01:52.18,petrol,76112,564299,mumbai,469,hatchback,,rs 1.0 petrol,TRUE,13107,84645,1
+38,maruti swift,2017,2021-04-21T11:34:14.444,petrol,29996,546199,hyderabad,1290,hatchback,manual,vxi opt,TRUE,12687,81930,2
+39,honda jazz,2010,2021-03-08T07:05:16.009,petrol,49945,288499,new delhi,584,hatchback,manual,1.2 base i vtec,TRUE,6701,43275,1
+40,maruti omni e,2017,2021-03-16T12:39:54.908,petrol,13072,349299,chennai,811,,,8 str,TRUE,8113,52395,1
+41,honda amaze,2018,2021-02-10T06:24:21.266,petrol,28944,570399,bengaluru,1858,sedan,manual,1.2 smt i vtec,TRUE,13249,85560,1
+42,maruti ciaz,2014,2021-04-21T17:22:45.413,diesel,162517,541499,mumbai,288,sedan,manual,zdi,TRUE,12578,81225,1
+43,maruti eeco,2016,2021-01-18T09:34:16.915,petrol & cng,81717,240899,new delhi,2332,suv,,5 str with ac plus htr,TRUE,5595,36135,1
+44,hyundai i10,2013,2020-11-15T00:30:01.353,petrol,23298,443099,bengaluru,573,hatchback,automatic,sportz 1.2 at kappa2,TRUE,10292,66465,1
+45,hyundai verna,2016,2021-04-02T05:33:58.632,diesel,107150,694399,pune,2774,sedan,automatic,fluidic 1.6 crdi  s at,FALSE,16129,104160,1
+46,ford figo,2010,2019-09-10T08:21:46.245,diesel,82800,180000,pune,299,hatchback,manual,1.4 exi duratorq,TRUE,4181,27000,3
+47,hyundai i20,2011,2021-04-11T08:40:01.673,petrol,58055,416299,bengaluru,404,hatchback,manual,asta 1.2,TRUE,9670,62445,1
+48,honda city zx,2007,2021-04-11T11:39:55.798,petrol,155004,141399,gurgaon,5819,sedan,manual,gxi,TRUE,3284,21210,2
+49,ford ecosport,2013,2020-05-25T10:05:42.556,petrol,63466,500000,bengaluru,272,suv,manual,1.0 ecoboost titanium,FALSE,11614,75000,1
+50,hyundai i10,2012,2021-03-24T06:09:33.716,petrol,72110,237199,gurgaon,577,hatchback,manual,magna 1.2 kappa2,TRUE,5510,35580,2
+51,hyundai elite i20,2016,2021-02-27T13:36:46.715,petrol,14894,560999,bengaluru,1536,hatchback,manual,magna 1.2,TRUE,13031,84150,2
+52,maruti ertiga,2015,2021-03-07T09:17:31.587,petrol,66221,616799,mumbai,512,suv,manual,vxi,TRUE,14327,92520,1
+53,maruti eeco,2019,2021-04-17T11:06:47.812,petrol,15028,465599,chennai,442,suv,manual,5 str with ac plushtr,TRUE,10815,69840,1
+54,maruti wagon r 1.0,2015,2020-12-12T11:52:06.598,petrol,31796,386799,bengaluru,1075,hatchback,manual,vxi,TRUE,8984,58020,1
+55,toyota etios,2013,2021-03-12T13:53:13.154,diesel,96343,382799,pune,1905,sedan,manual,vd sp,FALSE,8891,57420,2
+56,maruti ignis,2017,2021-03-02T07:59:56.115,petrol,34470,377299,faridabad,913,hatchback,manual,delta 1.2 k12,TRUE,8764,56595,2
+57,tata safari storme,2015,2021-03-22T14:33:35.999,diesel,135250,626999,lucknow,5477,suv,manual,2.2 ex 4x2,TRUE,14564,94050,2
+58,maruti alto 800,2016,2021-04-17T11:51:31.354,petrol,27100,336699,bengaluru,355,hatchback,manual,lxi,TRUE,7821,50505,1
+59,maruti swift dzire,2015,2021-03-07T11:43:09.474,diesel,62761,567199,chennai,835,sedan,manual,zdi,TRUE,13175,85080,1
+60,maruti swift,2016,2021-02-17T12:59:09.721,diesel,73401,520499,chennai,889,hatchback,manual,vdi abs,FALSE,12090,78075,1
+61,hyundai i10,2007,2021-04-11T06:06:59.068,petrol,86033,249599,hyderabad,339,hatchback,manual,era,TRUE,5798,37440,2
+62,maruti wagon r 1.0,2018,2021-04-20T13:58:47.154,petrol & cng,8452,487499,mumbai,1192,hatchback,manual,lxi cng,TRUE,11323,73125,1
+63,maruti celerio,2014,2021-04-21T15:17:49.298,petrol,32033,419199,mumbai,73,hatchback,automatic,vxi amt,TRUE,9737,62880,1
+64,toyota innova crysta,2017,2021-03-06T08:11:55.963,diesel,88398,1248358,noida,3277,suv,manual,2.4 gx 7 str,TRUE,28996,187254,2
+65,hyundai xcent,2015,2021-01-28T10:08:16.965,diesel,89930,340199,ghaziabad,1832,sedan,manual,sx 1.1 crdi,TRUE,7902,51030,1
+66,maruti swift,2012,2021-02-13T09:12:52.493,diesel,62307,410599,hyderabad,3864,hatchback,manual,vdi,TRUE,9537,61590,1
+67,maruti swift dzire,2012,2021-03-14T08:15:13.014,petrol,83548,366799,lucknow,2427,sedan,manual,vxi 1.2 bs iv,TRUE,8520,55020,1
+68,maruti ertiga,2014,2021-03-13T19:28:22.343,petrol & cng,99514,571799,mumbai,1391,suv,manual,vxi cng,TRUE,13281,85770,1
+69,tata tigor,2018,2021-03-24T08:09:59.511,diesel,49270,438299,hyderabad,3782,sedan,,xm revotorq,TRUE,10181,65745,1
+70,hyundai creta,2019,2021-03-23T13:10:00.743,diesel,13212,1447530,new delhi,3796,suv,,1.6 sx at crdi,TRUE,33622,217130,1
+71,hyundai i20,2013,2021-01-12T09:42:04.567,diesel,51472,415699,bengaluru,2572,hatchback,manual,magna o 1.4 crdi,TRUE,9656,62355,1
+72,maruti wagon r 1.0,2018,2021-03-23T14:00:00.882,petrol & cng,52539,401799,noida,3716,hatchback,manual,vxi,TRUE,9333,60270,1
+73,maruti wagon r,2007,2021-03-20T12:36:40.548,petrol,117800,182199,hyderabad,1552,hatchback,manual,lxi,TRUE,4232,27330,2
+74,maruti zen estilo,2007,2019-12-01T05:46:12.54,petrol & cng,110646,89000,ghaziabad,186,hatchback,manual,lxi,FALSE,2067,13350,2
+75,maruti wagon r 1.0,2012,2021-04-18T08:54:09.395,petrol,31540,312499,mumbai,136,hatchback,manual,vxi,FALSE,7259,46875,1
+76,toyota innova crysta,2018,2021-04-04T04:56:42.915,diesel,61729,1490758,ahmedabad,2404,suv,automatic,2.8 gx at 8 str,FALSE,34627,223614,1
+77,toyota innova,2012,2020-08-22T12:57:17.706,diesel,103935,639499,gurgaon,817,suv,manual,2.5 vx 7 str bs iv,TRUE,14854,95925,2
+78,hyundai santro xing,2007,2021-03-03T11:02:14.17,petrol,64809,102499,new delhi,6268,hatchback,manual,xo erlx euro iii,TRUE,2381,15375,2
+79,honda city,2015,2020-12-11T11:00:05.085,petrol,36119,673999,pune,2840,sedan,automatic,vx cvt petrol,TRUE,15655,101100,1
+80,ford fiesta,2008,2019-03-07T07:49:13.256,diesel,114310,111000,ahmedabad,920,sedan,manual,1.4 sxi tdci abs,FALSE,2578,16650,2
+81,hyundai eon,2015,2021-03-19T11:55:07.817,petrol,43748,267899,bengaluru,1376,hatchback,manual,era plus,TRUE,6223,40185,3
+82,tata tigor,2017,2021-04-17T08:55:48.589,petrol,26386,491499,pune,2254,sedan,manual,xz 1.2 revotron opt,FALSE,11416,73725,2
+83,hyundai grand i10,2014,2021-03-11T09:45:09.173,petrol,51206,371899,ahmedabad,753,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,8638,55785,1
+84,hyundai elite i20,2018,2021-04-20T13:58:11.362,diesel,33080,726099,mumbai,699,hatchback,manual,asta 1.4 crdi,TRUE,16865,108915,1
+85,hyundai verna,2020,2021-04-01T12:38:21.922,petrol,22747,1112008,ahmedabad,3500,sedan,,sx petrol at,TRUE,25829,166802,1
+86,maruti ertiga,2013,2021-03-19T08:10:49.472,diesel,97585,595999,bengaluru,957,suv,manual,zdi,TRUE,13844,89400,1
+87,ford freestyle,2018,2021-04-07T14:18:51,petrol,20175,509099,ghaziabad,2240,,,titanium 1.2 ti-vct,TRUE,11825,76365,1
+88,maruti ciaz,2015,2020-12-21T00:00:05.112,diesel,78595,444499,noida,2496,sedan,manual,vdi plus,TRUE,10325,66675,1
+89,maruti swift,2016,2021-04-09T06:59:47.973,petrol,36179,367999,new delhi,1510,hatchback,manual,lxi opt,TRUE,8548,55200,1
+90,jeep compass,2018,2021-04-04T10:06:45.463,diesel,62683,1367538,ahmedabad,2539,luxury suv,manual,2.0 limited,FALSE,31764,205131,1
+91,maruti sx4,2010,2021-04-05T07:59:31.731,petrol,58590,227099,mumbai,574,sedan,manual,vxi,TRUE,5275,34065,2
+92,mahindra kuv100,2016,2021-04-05T12:10:00.065,petrol,28640,328099,new delhi,2219,suv,manual,k4 6 str,TRUE,7621,49215,1
+93,honda brio,2012,2021-02-08T11:05:48.009,petrol,30254,302799,mumbai,345,hatchback,manual,1.2 s mt i vtec,TRUE,7033,45420,1
+94,hyundai grand i10,2018,2021-03-30T11:16:16.508,petrol,14673,450399,gurgaon,1698,hatchback,manual,magna 1.2 kappa vtvt,TRUE,10462,67560,1
+95,maruti swift dzire,2012,2021-03-27T11:01:28.283,petrol,121979,359899,ahmedabad,277,sedan,manual,vxi 1.2 bs iv,TRUE,8360,53985,1
+96,toyota innova,2014,2021-02-03T14:53:09.846,diesel,227391,1129683,bengaluru,1189,suv,manual,2.5 vx 7 str bs iv,FALSE,26240,169453,1
+97,mahindra xylo,2010,2019-08-22T13:56:42.138,diesel,132687,200000,ahmedabad,220,suv,manual,d2 bs iv,TRUE,4646,30000,1
+98,honda city,2014,2021-04-12T09:55:00.159,petrol,104666,493399,gurgaon,781,sedan,manual,v mt petrol,TRUE,11460,74010,2
+99,ford ecosport,2015,2021-03-18T05:10:11.3,petrol,110966,490999,new delhi,1503,suv,manual,1.5ambiente ti vct,TRUE,11405,73650,1
+100,maruti alto,2010,2021-01-11T08:29:00.5,petrol,71122,234399,bengaluru,537,hatchback,manual,lxi,TRUE,5444,35160,2
+101,hyundai i10,2009,2021-04-06T03:54:08.031,petrol,68132,174099,pune,3567,hatchback,manual,sportz 1.2,FALSE,4044,26115,3
+102,maruti swift dzire,2015,2021-01-27T14:05:45.547,petrol,80800,481199,bengaluru,1185,sedan,manual,zxi 1.2 bs iv,TRUE,11177,72180,3
+103,maruti wagon r 1.0,2018,2021-03-24T15:38:17.481,petrol & cng,9582,465699,mumbai,1942,hatchback,manual,lxi cng,TRUE,10817,69855,1
+104,maruti ertiga,2019,2021-03-13T14:29:59.014,petrol,22770,1011199,pune,2751,suv,,zxi plus shvs,TRUE,23488,151680,1
+105,maruti alto 800,2012,2021-04-07T11:38:29.84,petrol,40911,269599,bengaluru,356,hatchback,manual,lxi,TRUE,6262,40440,2
+106,hyundai elite i20,2019,2021-03-09T12:40:40.967,petrol,8781,782899,bengaluru,1677,hatchback,,1.2 sportz plus dual tone vtvt,TRUE,18185,117435,1
+107,maruti swift,2012,2021-04-02T06:34:09.824,diesel,84213,324199,gurgaon,504,hatchback,manual,vdi,TRUE,7530,48630,1
+108,maruti swift,2019,2021-02-05T14:16:31.797,petrol,5419,574999,ahmedabad,2798,hatchback,manual,vxi,TRUE,13356,86250,1
+109,hyundai i10,2009,2021-02-01T10:46:37.539,petrol,85240,151999,pune,1482,hatchback,manual,magna 1.2,TRUE,3531,22800,1
+110,honda civic,2010,2021-03-27T06:06:23.17,petrol,168462,270099,pune,2154,sedan,manual,1.8s mt,TRUE,6274,40515,1
+111,hyundai santro xing,2008,2021-03-30T11:45:51.085,petrol,29650,157299,pune,4162,hatchback,manual,gls,TRUE,3654,23595,2
+112,maruti swift dzire,2012,2021-03-09T17:20:16.407,diesel,79396,373799,new delhi,1344,sedan,manual,zdi,TRUE,8682,56070,1
+113,chevrolet spark,2010,2021-03-11T10:52:23.316,petrol,71080,237399,bengaluru,552,hatchback,manual,lt 1.0,FALSE,5514,35610,1
+114,hyundai verna,2015,2021-03-11T12:06:45.261,diesel,70207,766599,bengaluru,2254,sedan,automatic,fluidic 1.6 crdi sx at,FALSE,17806,114990,1
+115,honda amaze,2013,2019-10-06T05:12:10.708,diesel,132070,250000,noida,172,sedan,manual,1.5 smt i dtec,TRUE,5807,37500,1
+116,mahindra kuv100,2016,2021-04-03T07:07:34.17,diesel,62601,333799,ghaziabad,1542,suv,manual,k8 d 5 str,TRUE,7753,50070,1
+117,honda city,2015,2019-08-22T13:04:50.832,diesel,110600,600000,pune,31,sedan,manual,v mt diesel,TRUE,13937,90000,1
+118,hyundai i10,2012,2021-03-15T14:41:48.381,petrol,71853,336999,chennai,163,hatchback,manual,magna 1.2 kappa2,TRUE,7828,50550,2
+119,hyundai i20,2014,2021-01-03T09:23:58.668,diesel,56549,340699,ghaziabad,2055,hatchback,manual,magna o 1.4 crdi,TRUE,7914,51105,1
+120,hyundai grand i10,2015,2021-02-27T10:14:03.763,petrol,2546,563799,bengaluru,658,hatchback,manual,asta 1.2 (o) vtvt,TRUE,13096,84570,1
+121,hyundai accent,2012,2021-03-04T11:59:16.557,petrol,170597,197799,new delhi,3748,sedan,manual,executive gle,TRUE,4594,29670,1
+122,maruti alto k10,2013,2021-02-22T13:24:24.63,petrol,81944,257299,hyderabad,571,hatchback,manual,vxi,TRUE,5976,38595,1
+123,hyundai i20,2009,2021-04-01T05:47:42.818,petrol & cng,119627,240899,mumbai,1389,hatchback,manual,asta 1.2,FALSE,5595,36135,2
+124,hyundai santro xing,2011,2021-03-14T05:12:07.268,petrol,47989,227199,chennai,2130,hatchback,manual,gls,TRUE,5277,34080,2
+125,hyundai creta,2015,2021-02-19T07:45:33.778,diesel,55867,916099,hyderabad,2990,suv,manual,1.6 sx plus diesel,TRUE,21279,137415,1
+126,toyota innova,2010,2021-03-05T17:35:46.621,diesel,150832,582199,mumbai,1205,suv,manual,2.5 v 8 str,FALSE,13523,87330,1
+127,renault kwid,2016,2021-04-03T06:28:21.052,petrol,23226,265699,faridabad,3001,hatchback,manual,rxt,TRUE,6172,39855,1
+128,honda city,2013,2021-01-28T10:41:12.566,petrol,68016,424499,ghaziabad,2403,sedan,manual,v mt petrol,TRUE,9860,63675,1
+129,maruti ciaz,2014,2021-03-16T18:15:10.106,diesel,103397,442899,new delhi,1628,sedan,manual,zdi,TRUE,10287,66435,1
+130,maruti eeco,2019,2021-02-24T12:15:39.454,petrol & cng,5715,386499,noida,3447,suv,manual,5 str cng with ac plushtr,TRUE,8977,57975,1
+131,hyundai i10,2009,2021-02-23T07:18:46.752,petrol,65198,169299,mumbai,2043,hatchback,manual,magna 1.2,TRUE,3932,25395,2
+132,mahindra xuv500,2015,2021-03-07T08:43:29.134,diesel,92400,858799,gurgaon,1039,luxury suv,manual,w10,TRUE,19948,128820,2
+133,volkswagen vento,2014,2021-01-20T06:10:41.973,diesel,82081,310299,new delhi,1428,sedan,manual,comfortline diesel,TRUE,7207,46545,1
+134,maruti celerio,2015,2021-03-19T05:43:29.904,petrol,7187,455899,bengaluru,849,hatchback,automatic,vxi amt,FALSE,10589,68385,1
+135,maruti celerio,2016,2021-04-05T17:41:50.172,petrol & cng,95404,411599,mumbai,576,hatchback,manual,vxi cng,TRUE,9560,61740,1
+136,maruti ritz,2009,2021-04-01T12:40:55.383,petrol,53231,275299,hyderabad,801,hatchback,manual,vxi,TRUE,6395,41295,1
+137,ford ecosport,2015,2021-03-19T08:08:54.707,petrol,52758,640299,noida,1095,suv,automatic,1.5 titanium ti vct at,TRUE,14873,96045,2
+138,maruti ertiga,2012,2021-03-21T15:33:44.477,diesel,242900,521099,mumbai,196,suv,manual,vdi abs,TRUE,12104,78165,1
+139,maruti baleno,2017,2020-03-28T06:55:41.538,petrol,49405,674199,bengaluru,663,hatchback,automatic,zeta 1.2 k12 amt,TRUE,15660,101130,2
+140,maruti alto k10,2014,2021-03-24T11:38:06.813,petrol,66079,347099,bengaluru,283,hatchback,manual,vxi,TRUE,8062,52065,1
+141,maruti celerio,2016,2021-04-21T12:33:54.68,petrol,48395,461299,bengaluru,355,hatchback,automatic,zxi opt amt,TRUE,10715,69195,1
+142,maruti wagon r duo,2008,2021-04-03T14:57:46.625,petrol & lpg,69982,193499,chennai,511,hatchback,manual,lxi lpg,TRUE,4494,29025,1
+143,tata hexa,2019,2021-04-16T10:46:37.391,diesel,46337,1914453,chennai,1300,suv,manual,varicor 400 xt,TRUE,44468,287168,1
+144,honda city,2014,2021-03-17T09:42:55.353,diesel,110899,620199,chennai,1172,sedan,manual,vx mt diesel,TRUE,14406,93030,1
+145,maruti celerio,2016,2021-04-08T13:59:47.487,petrol,83735,461099,chennai,179,hatchback,automatic,zxi amt,TRUE,10710,69165,1
+146,maruti wagon r 1.0,2011,2021-04-06T10:15:37.442,petrol,30640,266399,pune,693,hatchback,manual,lxi,TRUE,6188,39960,1
+147,ford ecosport,2014,2021-04-02T07:47:12.176,petrol,29000,464499,mumbai,1940,suv,manual,1.5 trend ti vct,FALSE,10789,69675,2
+148,maruti baleno,2016,2021-04-15T09:31:10.876,petrol,36146,570599,hyderabad,1456,hatchback,automatic,delta 1.2 k12 amt,TRUE,13254,85590,2
+149,honda civic,2010,2019-03-15T11:10:57.966,petrol,60291,270000,ghaziabad,249,sedan,automatic,1.8v at,FALSE,6271,40500,1
+150,maruti ritz,2011,2021-04-05T11:15:51.786,petrol,76919,251199,new delhi,375,hatchback,manual,vxi bs iv,TRUE,5835,37680,1
+151,ford figo,2012,2021-04-17T04:18:32.054,petrol,45635,238099,pune,1751,hatchback,manual,1.2 titanium duratec,FALSE,5530,35715,1
+152,maruti vitara brezza,2017,2020-12-31T11:47:03.305,diesel,51514,668999,mumbai,959,suv,manual,ldi,TRUE,15539,100350,1
+153,maruti ciaz,2018,2021-03-11T11:41:45.578,diesel,72536,674299,chennai,1366,sedan,manual,delta 1.3 ddis shvs,TRUE,15662,101145,1
+154,maruti celerio,2018,2021-04-19T11:49:19.755,petrol & cng,84119,423899,hyderabad,726,hatchback,manual,vxi,TRUE,9846,63585,1
+155,mahindra xuv500,2016,2020-11-25T15:00:01.101,diesel,105691,920999,pune,204,luxury suv,,w10 fwd,TRUE,21393,138150,1
+156,tata tigor,2018,2021-04-16T13:53:59.06,petrol,3399,571199,mumbai,853,sedan,manual,xz 1.2 revotron,TRUE,13268,85680,1
+157,maruti wagon r 1.0,2010,2021-03-15T12:48:04.658,petrol,71422,210099,new delhi,296,hatchback,manual,lxi,TRUE,4880,31515,2
+158,maruti swift,2014,2021-03-03T10:02:57.766,petrol,80728,362899,mumbai,978,hatchback,manual,vxi,TRUE,8429,54435,1
+159,maruti eeco,2016,2021-02-26T07:59:59.246,petrol,38114,392099,bengaluru,509,suv,manual,5 str with ac plushtr,TRUE,9107,58815,1
+160,honda accord,2009,2020-08-16T16:32:19.279,petrol & cng,103556,210000,new delhi,390,sedan,manual,2.4 mt,TRUE,4878,31500,5
+161,hyundai new elantra,2017,2021-03-27T14:32:49.373,diesel,35617,1134935,mumbai,5414,luxury sedan,automatic,1.6 sx at o,FALSE,26362,170241,2
+162,maruti swift dzire,2015,2021-02-04T07:03:31.282,petrol,45865,437299,bengaluru,1533,sedan,manual,lxi 1.2 bs iv,TRUE,10157,65595,1
+163,maruti swift,2008,2021-03-08T09:15:07.44,petrol,75701,180599,mumbai,2208,hatchback,manual,vxi 1.3,TRUE,4195,27090,2
+164,maruti s cross,2018,2021-03-23T05:16:08,diesel,57069,769599,new delhi,1554,suv,,zeta 1.3 shvs,TRUE,17876,115440,1
+165,maruti wagon r 1.0,2011,2021-03-19T10:33:39.843,petrol,126386,326599,bengaluru,305,hatchback,manual,vxi,FALSE,7586,48990,1
+166,mercedes benz e class,2012,2021-02-09T13:39:58.476,diesel,53597,1047570,new delhi,2491,luxury sedan,,e 220 cdi classic,TRUE,24332,157136,2
+167,ford figo,2010,2021-03-08T10:35:44.861,diesel,128317,187099,pune,2876,hatchback,manual,1.4 zxi duratorq,TRUE,4346,28065,2
+168,maruti swift,2018,2021-03-26T06:37:47.583,petrol,57889,691299,bengaluru,903,hatchback,automatic,zxi amt,TRUE,16057,103695,1
+169,mahindra xuv 3oo,2019,2021-03-02T14:16:46.341,diesel,16746,1154428,mumbai,2376,suv,,w8(o),FALSE,26814,173165,1
+170,maruti alto 800,2014,2021-03-12T06:41:21.536,petrol,48657,272899,bengaluru,403,hatchback,manual,lxi,TRUE,6339,40935,1
+171,maruti wagon r 1.0,2011,2021-03-17T14:50:58.136,petrol & cng,72151,253799,mumbai,1983,hatchback,manual,vxi,FALSE,5895,38070,2
+172,toyota corolla altis,2010,2021-03-26T07:29:31.362,petrol,85763,287299,mumbai,816,luxury sedan,,1.8 j,TRUE,6673,43095,3
+173,audi a6,2012,2021-03-06T13:20:44.614,diesel,29177,1184223,faridabad,4913,luxury sedan,automatic,2.0 tdi,TRUE,27507,177634,1
+174,maruti alto,2009,2021-03-31T10:29:06.279,petrol,54904,185599,hyderabad,1169,hatchback,manual,lxi,TRUE,4311,27840,1
+175,volkswagen ameo,2016,2021-04-03T05:10:40.702,petrol,43771,460099,pune,1460,sedan,manual,highline 1.2,TRUE,10687,69015,1
+176,maruti wagon r 1.0,2016,2020-07-29T11:56:57.046,petrol,111279,295000,new delhi,119,hatchback,manual,lxi,TRUE,6852,44250,1
+177,maruti vitara brezza,2016,2021-03-31T14:08:45.076,diesel,52520,595999,new delhi,4066,suv,manual,vdi,TRUE,13844,89400,2
+178,maruti vitara brezza,2017,2021-03-25T05:25:52.249,diesel,59023,604999,new delhi,3855,suv,manual,vdi opt,TRUE,14053,90750,2
+179,maruti swift dzire,2015,2021-03-31T13:21:06.124,petrol,41516,448399,new delhi,831,sedan,,vxi regalia,TRUE,10415,67260,1
+180,hyundai xcent,2014,2019-03-22T13:00:26.87,petrol,51147,375000,ghaziabad,41,sedan,manual,s 1.2,FALSE,8710,56250,1
+181,volkswagen polo,2015,2020-10-24T10:57:38.773,petrol,35743,622599,bengaluru,5297,hatchback,automatic,gt tsi 1.2 petrol at,TRUE,14461,93390,1
+182,volkswagen vento,2012,2021-01-20T06:02:09.772,diesel,52977,367799,chennai,8118,sedan,manual,highline diesel,TRUE,8543,55170,2
+183,maruti eeco,2020,2021-04-05T13:44:54.501,petrol,7449,472799,ahmedabad,838,suv,manual,5 str with ac plushtr,TRUE,10982,70920,1
+184,maruti ritz,2011,2021-03-10T13:51:10.362,petrol,39325,286099,new delhi,430,hatchback,manual,vxi bs iv,TRUE,6645,42915,1
+185,maruti ciaz,2018,2021-03-23T12:50:13.484,petrol,3330,839099,bengaluru,1600,sedan,,1.4 s,TRUE,19490,125865,1
+186,mahindra tuv300,2016,2021-03-13T12:09:05.895,diesel,60135,671999,bengaluru,2435,suv,automatic,t8 at,TRUE,15609,100800,2
+187,maruti alto k10,2014,2020-11-05T04:04:21.866,petrol,22656,306999,bengaluru,822,hatchback,manual,vxi,TRUE,7131,46050,1
+188,honda jazz,2012,2021-03-15T10:43:09.279,petrol,110108,331799,new delhi,169,hatchback,manual,1.2 select i vtec,TRUE,7707,49770,1
+189,toyota innova crysta,2018,2021-04-08T07:35:37.771,diesel,52726,1972932,mumbai,1802,suv,automatic,2.8 zx at 7 str,TRUE,45826,295940,1
+190,maruti alto 800,2014,2021-03-04T11:31:31.254,petrol,55269,241499,pune,554,hatchback,manual,lxi,FALSE,5609,36225,1
+191,maruti swift dzire,2012,2021-04-10T07:47:55.784,petrol,56269,408899,pune,643,sedan,manual,vxi 1.2 bs iv,FALSE,9498,61335,1
+192,renault duster,2013,2021-04-13T09:34:35.496,diesel,109600,413499,ahmedabad,407,suv,manual,85 ps rxl opt,TRUE,9605,62025,1
+193,hyundai i20,2012,2021-03-19T05:18:33.071,petrol,62165,312699,ahmedabad,2084,hatchback,manual,magna o 1.2,TRUE,7263,46905,2
+194,mercedes benz c class,2009,2021-02-15T13:30:40.026,petrol,58102,554499,bengaluru,3575,luxury sedan,manual,230 avantgarde,TRUE,12880,83175,2
+195,honda city,2014,2021-02-15T07:04:06.849,diesel,82735,524699,hyderabad,2691,sedan,manual,s mt diesel,TRUE,12187,78705,1
+196,maruti s presso,2019,2021-04-29T08:15:00.249,petrol,30598,441299,hyderabad,538,hatchback,,vxi plus,TRUE,10250,66195,1
+197,maruti alto,2012,2020-12-18T10:11:36.09,petrol,35190,212999,chennai,1791,hatchback,manual,lxi,TRUE,4947,31950,2
+198,maruti swift dzire,2014,2021-03-04T09:24:25.189,diesel,82140,374799,new delhi,1280,sedan,manual,vdi bs iv,TRUE,8706,56220,2
+199,maruti alto k10,2018,2020-11-23T08:25:07.456,petrol,6193,409199,bengaluru,466,hatchback,,vxi (o) amt,TRUE,9505,61380,1
+200,maruti swift,2008,2021-05-01T08:10:13.822,petrol,48435,246199,hyderabad,3416,hatchback,,vxi 1.3 abs,TRUE,5719,36930,2
+201,maruti swift dzire,2013,2020-09-29T06:57:42.806,diesel,30011,517499,bengaluru,1596,sedan,manual,zdi,TRUE,12020,77625,1
+202,volkswagen vento,2013,2021-01-23T12:14:12.354,petrol,68210,401000,mumbai,127,sedan,automatic,highline petrol at,FALSE,9314,60150,1
+203,honda amaze,2019,2021-03-09T14:20:11.104,petrol,21863,625799,ahmedabad,1968,sedan,,1.2 v mt i-vtec,TRUE,14536,93870,1
+204,maruti vitara brezza,2018,2021-03-06T11:28:20.967,diesel,55960,788399,bengaluru,935,suv,manual,vdi opt,TRUE,18313,118260,1
+205,maruti alto 800,2014,2021-03-08T04:53:54.677,petrol & cng,82605,244499,pune,1567,hatchback,manual,lxi cng,FALSE,5679,36675,2
+206,renault kwid,2018,2021-03-08T06:20:50.584,petrol,24872,364899,chennai,1817,hatchback,manual,1.0 rxt opt,TRUE,8476,54735,1
+207,hyundai i10,2008,2021-02-25T08:02:09.544,petrol,78054,235999,hyderabad,518,hatchback,manual,magna 1.1 irde2,TRUE,5482,35400,1
+208,maruti eeco,2014,2021-04-05T17:56:20.972,petrol & cng,39790,371599,pune,610,suv,manual,5 str cng with ac plushtr,TRUE,8631,55740,1
+209,maruti swift dzire,2014,2021-01-19T13:23:04.324,petrol,241014,315299,ghaziabad,905,sedan,manual,vxi 1.2 bs iv,TRUE,7324,47295,1
+210,hyundai grand i10 nios,2020,2021-03-07T11:20:21.11,petrol,2259,766099,bengaluru,1487,hatchback,,sportz 1.2 at,TRUE,17795,114915,1
+211,renault kwid,2018,2021-02-17T05:24:01.21,petrol,21973,325299,ahmedabad,1030,hatchback,manual,1.0 rxt,FALSE,7556,48795,1
+212,hyundai i20,2014,2021-03-27T13:03:07.038,petrol,39007,432099,ahmedabad,2259,hatchback,manual,sportz 1.2 vtvt,TRUE,10037,64815,1
+213,maruti swift dzire,2009,2021-02-23T14:37:29.002,petrol,90418,209599,new delhi,808,sedan,manual,vxi 1.3,TRUE,4868,31440,1
+214,volkswagen vento,2017,2021-03-19T10:18:36.153,diesel,49616,773199,chennai,2456,sedan,automatic,highline tdi at,TRUE,17959,115980,1
+215,maruti s cross,2018,2021-03-09T13:03:48.162,diesel,44813,803399,ahmedabad,2338,suv,manual,alpha shvs,TRUE,18661,120510,1
+216,hyundai grand i10,2015,2021-04-10T13:03:47.845,petrol,10520,557099,bengaluru,553,hatchback,manual,asta at 1.2 kappa vtvt,TRUE,12940,83565,1
+217,hyundai eon,2012,2021-04-10T08:18:35.74,petrol,66327,196999,ahmedabad,1154,hatchback,manual,d lite plus,FALSE,4576,29550,1
+218,maruti alto k10,2018,2021-02-17T12:51:14.072,petrol,9861,436999,bengaluru,593,hatchback,,vxi (o) amt,TRUE,10150,65550,1
+219,maruti alto,2009,2021-02-21T06:43:36.32,petrol,58959,201899,bengaluru,561,hatchback,manual,xcite,TRUE,4690,30285,2
+220,maruti dzire,2019,2021-04-08T18:54:05.449,petrol,5115,625199,noida,2872,sedan,manual,vxi,TRUE,14522,93780,1
+221,nissan terrano,2014,2019-03-20T14:27:29.53,diesel,64628,500000,faridabad,420,suv,manual,xl plus 85 ps deisel,FALSE,11614,75000,1
+222,maruti alto,2019,2021-03-24T11:11:21.786,petrol,27799,338099,ahmedabad,354,hatchback,manual,lxi,TRUE,7853,50715,1
+223,volkswagen polo,2016,2021-04-24T08:19:20.537,petrol,95987,552599,hyderabad,917,hatchback,manual,highline1.2l petrol,TRUE,12835,82890,1
+224,honda amaze,2014,2021-03-20T05:58:06.368,petrol,72201,371499,new delhi,1152,sedan,manual,1.2 sx mt i vtec,TRUE,8629,55725,1
+225,maruti alto k10,2010,2021-03-23T07:06:44.812,petrol,56095,240599,bengaluru,696,hatchback,manual,vxi,TRUE,5589,36090,1
+226,hyundai i20 active,2017,2021-03-14T18:30:12.009,petrol,10754,637399,pune,1326,hatchback,manual,1.2 sx,TRUE,14805,95610,1
+227,hyundai grand i10,2017,2021-03-13T00:46:49.557,petrol,71494,386599,new delhi,963,hatchback,manual,magna 1.2 kappa vtvt,FALSE,8980,57990,1
+228,maruti eeco,2018,2019-09-09T06:55:42.281,petrol & cng,52420,380000,new delhi,139,suv,manual,5 str cng with ac plushtr,TRUE,8826,57000,1
+229,hyundai i20,2012,2021-01-30T07:31:04.499,diesel,138000,264199,gurgaon,1500,hatchback,manual,sportz o 1.4 crdi,TRUE,6137,39630,1
+230,hyundai i10,2009,2021-01-28T09:12:50.375,petrol,101931,221899,hyderabad,1909,hatchback,manual,sportz 1.2,TRUE,5154,33285,2
+231,renault kwid,2016,2021-03-07T07:03:50.007,petrol,57111,251299,new delhi,688,hatchback,manual,rxt,TRUE,5837,37695,1
+232,honda wr-v,2017,2021-04-05T11:42:23.025,petrol,23780,723199,mumbai,703,suv,manual,1.2 i-vtec vx mt,FALSE,16798,108480,1
+233,maruti ertiga,2014,2021-02-13T13:16:39.258,diesel,116278,593599,bengaluru,814,suv,manual,vdi abs,TRUE,13788,89040,2
+234,maruti ritz,2011,2021-03-04T13:56:50.236,petrol,74518,218899,new delhi,468,hatchback,manual,vxi bs iv,TRUE,5084,32835,1
+235,honda br-v,2016,2021-05-29T08:12:40.984,diesel,40746,775000,mumbai,10,suv,manual,1.5 i- dtec s,FALSE,18001,116250,1
+236,hyundai i20,2013,2021-04-16T11:55:25.271,petrol,57900,324199,new delhi,777,hatchback,manual,magna o 1.2,TRUE,7530,48630,1
+237,honda amaze,2013,2021-03-09T11:43:42.998,petrol,91004,380699,mumbai,454,sedan,manual,1.2 smt i vtec,TRUE,8843,57105,1
+238,hyundai elite i20,2018,2021-02-05T08:17:05.999,petrol,11962,659499,hyderabad,2269,hatchback,manual,asta 1.2,TRUE,15319,98925,1
+239,maruti alto 800,2013,2021-02-26T11:09:56.889,petrol,41967,249299,bengaluru,566,hatchback,manual,lxi,TRUE,5791,37395,3
+240,toyota innova,2008,2021-04-04T06:11:42.532,diesel,182406,391999,pune,1875,suv,manual,2.5 g4 8 str,TRUE,9105,58800,2
+241,toyota etios,2011,2021-01-22T14:28:15.631,petrol,156589,207499,new delhi,1181,sedan,manual,g,TRUE,4820,31125,1
+242,maruti ertiga,2018,2021-03-30T14:09:37.408,petrol,3783,882599,mumbai,2547,suv,,vxi smart hybrid,TRUE,20501,132390,1
+243,maruti baleno,2020,2021-03-22T09:53:16.522,petrol,6679,622999,noida,15999,hatchback,manual,delta 1.2 k12,TRUE,14471,93450,1
+244,volkswagen polo,2016,2021-03-22T14:09:06.918,petrol,17430,772499,bengaluru,2811,hatchback,automatic,gt tsi 1.2 petrol at,TRUE,17943,115875,2
+245,maruti alto k10,2015,2021-03-24T13:19:06.924,petrol,12593,394199,bengaluru,634,hatchback,,vxi amt,TRUE,9156,59130,2
+246,hyundai xcent,2015,2021-03-29T12:59:11.872,petrol,91984,421099,hyderabad,1156,sedan,manual,s 1.2,TRUE,9781,63165,1
+247,toyota innova,2013,2021-03-30T13:31:41.598,diesel,287219,676699,gurgaon,133,suv,manual,2.5 gx 7 str bs iv,TRUE,15718,101505,1
+248,maruti alto,2012,2021-03-14T06:47:18.191,petrol,64259,252199,hyderabad,714,hatchback,manual,lxi,TRUE,5858,37830,1
+249,hyundai i20,2011,2021-04-15T07:36:42.021,petrol,62904,387599,bengaluru,87,hatchback,manual,asta 1.2,TRUE,9003,58140,1
+250,maruti alto k10,2011,2021-02-20T12:39:08.615,petrol,68153,241799,bengaluru,365,hatchback,manual,vxi,TRUE,5616,36270,2
+251,maruti wagon r 1.0,2012,2021-04-01T07:32:30.371,petrol & cng,47729,289699,mumbai,478,hatchback,manual,lxi cng,TRUE,6729,43455,1
+252,hyundai i20,2011,2021-03-31T07:23:17.624,petrol,18974,359199,mumbai,318,hatchback,manual,sportz 1.2 o,TRUE,8343,53880,1
+253,hyundai i20,2011,2021-03-17T05:13:16.072,petrol,123568,290699,pune,656,hatchback,manual,magna o 1.2,TRUE,6752,43605,2
+254,hyundai verna,2018,2020-12-28T13:45:25.057,petrol,1827,1182304,mumbai,2595,sedan,automatic,1.6 sx vtvt at (o),TRUE,27462,177346,1
+255,maruti alto 800,2015,2021-02-14T08:26:01.454,petrol,30242,257499,pune,2748,hatchback,manual,lxi,FALSE,5981,38625,1
+256,maruti swift,2008,2021-04-06T18:07:09.175,petrol & cng,64425,199999,pune,9411,hatchback,manual,vxi 1.3,FALSE,4645,30000,2
+257,hyundai grand i10,2016,2021-03-03T13:49:46.948,petrol,2751,469999,mumbai,681,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,10917,70500,1
+258,honda jazz,2012,2021-03-28T11:01:31.575,petrol,59949,335099,mumbai,755,hatchback,manual,1.2 base i vtec,TRUE,7784,50265,2
+259,hyundai eon,2013,2021-04-14T05:56:26.229,petrol,25052,238299,ahmedabad,548,hatchback,manual,era plus,TRUE,5535,35745,1
+260,maruti a star,2010,2021-03-09T13:33:48.527,petrol & cng,34181,199199,ghaziabad,2631,hatchback,manual,vxi,TRUE,4627,29880,1
+261,maruti swift dzire,2010,2020-12-08T15:00:04.017,diesel,160205,280799,pune,914,sedan,manual,vdi bs iv,TRUE,6522,42120,2
+262,maruti dzire,2017,2021-03-10T11:14:24.355,diesel,110111,467399,new delhi,1356,sedan,manual,ldi,TRUE,10857,70110,1
+263,hyundai grand i10,2015,2021-02-28T15:38:23.798,petrol,58570,396499,mumbai,662,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,9210,59475,1
+264,hyundai i10,2013,2021-02-27T04:58:00.397,petrol,115427,292799,chennai,746,hatchback,manual,asta 1.2 kappa2,TRUE,6801,43920,1
+265,maruti alto,2007,2019-08-23T09:01:17.886,petrol,149025,81000,ghaziabad,56,hatchback,manual,lxi,FALSE,1881,12150,4
+266,maruti alto,2009,2021-03-26T05:59:11.416,petrol,62353,199299,bengaluru,589,hatchback,manual,lxi,TRUE,4629,29895,3
+267,hyundai i20,2013,2021-03-23T20:43:42.108,diesel,69046,378299,new delhi,536,hatchback,manual,sportz 1.4 crdi,TRUE,8787,56745,1
+268,maruti swift,2013,2021-03-27T13:38:57.211,petrol,44431,481699,bengaluru,1205,hatchback,manual,vxi,TRUE,11189,72255,2
+269,hyundai elite i20,2014,2021-03-09T12:29:06.173,petrol,29094,490799,hyderabad,1256,hatchback,manual,magna 1.2,TRUE,11400,73620,1
+270,skoda rapid,2012,2021-03-19T11:16:23.526,diesel,81154,457799,bengaluru,3716,sedan,manual,1.6 tdi mt ambition,TRUE,10634,68670,1
+271,hyundai verna,2012,2021-02-28T09:14:08.328,petrol,10253,374799,mumbai,5600,sedan,automatic,fluidic 1.6 ex vtvt at,TRUE,8706,56220,2
+272,toyota corolla altis,2008,2021-04-04T12:21:23.2,petrol,222344,228699,mumbai,37,luxury sedan,,1.8 g,FALSE,5312,34305,2
+273,maruti alto 800,2016,2021-03-16T08:05:06.943,petrol,32339,277099,new delhi,920,hatchback,manual,vxi,TRUE,6436,41565,1
+274,maruti celerio,2014,2021-03-15T18:34:05.423,petrol,30338,362699,mumbai,474,hatchback,manual,zxi opt,TRUE,8425,54405,1
+275,hyundai verna,2019,2021-03-02T14:13:30.448,petrol,22647,822899,mumbai,1501,sedan,manual,1.4 vtvt ex,FALSE,19114,123435,1
+276,maruti vitara brezza,2018,2021-01-14T12:56:41.809,diesel,12608,855999,bengaluru,1657,suv,manual,vdi,TRUE,19883,128400,1
+277,maruti swift,2015,2021-04-16T08:04:51.397,diesel,92086,419699,new delhi,1000,hatchback,manual,vdi abs,TRUE,9749,62955,1
+278,hyundai santro xing,2006,2019-08-23T05:56:51.172,petrol & cng,106500,70000,new delhi,64,hatchback,manual,xo erlx euro iii,FALSE,1626,10500,1
+279,mg hector,2019,2021-04-03T17:03:49.186,diesel,37965,1826684,mumbai,1367,,,sharp 2.0 diesel,TRUE,42429,274003,1
+280,maruti alto 800,2017,2019-03-29T14:29:42.753,petrol,5359,270000,ahmedabad,420,hatchback,manual,lxi,FALSE,6271,40500,1
+281,maruti s cross,2015,2021-02-19T06:09:44.41,diesel,64085,680199,bengaluru,927,suv,manual,zeta 1.3,TRUE,15799,102030,1
+282,maruti wagon r 1.0,2015,2021-03-22T05:54:39.914,petrol & cng,19570,374199,mumbai,1649,hatchback,,lxi cng avance limited edition,TRUE,8692,56130,1
+283,hyundai creta,2015,2021-03-28T06:38:02.828,diesel,58003,841699,new delhi,1892,suv,,1.6 sx (o) crdi,TRUE,19551,126255,1
+284,maruti celerio,2018,2020-11-22T10:58:21.723,petrol,13638,541799,bengaluru,669,hatchback,manual,zxi,TRUE,12585,81270,1
+285,maruti ritz,2009,2021-03-11T12:50:38.788,petrol,72623,180699,mumbai,1302,hatchback,manual,vxi bs iv,TRUE,4197,27105,1
+286,maruti swift dzire,2012,2021-01-25T10:01:13.871,diesel,94644,333299,new delhi,698,sedan,manual,vdi bs iv,TRUE,7742,49995,1
+287,honda jazz,2009,2021-04-03T06:59:15.806,petrol,215809,202799,ghaziabad,698,hatchback,manual,1.2 base i vtec,TRUE,4711,30420,1
+288,maruti wagon r 1.0,2011,2020-10-03T09:59:16.677,petrol & cng,114593,235299,hyderabad,393,hatchback,manual,lxi cng,TRUE,5465,35295,2
+289,ford ikon,2004,2019-08-22T12:14:47.576,petrol,28484,50000,new delhi,243,sedan,manual,1.3 flair,FALSE,1161,7500,2
+290,ford fiesta,2008,2021-02-03T10:02:14.566,petrol,155454,242499,bengaluru,2256,sedan,manual,1.6 zxi,TRUE,5633,36375,1
+291,maruti ertiga,2015,2021-03-23T10:58:12.039,petrol,31048,660199,mumbai,1366,suv,manual,zxi,TRUE,15335,99030,1
+292,skoda superb,2010,2021-04-03T07:01:30.605,petrol,106039,506299,hyderabad,1786,luxury sedan,manual,elegance 1.8 tsi mt,TRUE,11760,75945,1
+293,maruti swift dzire,2014,2021-02-26T14:03:04.15,petrol,43981,517199,bengaluru,721,sedan,manual,zxi 1.2 bs iv,TRUE,12013,77580,1
+294,datsun go plus,2017,2021-03-23T07:39:11.07,petrol,5994,393499,mumbai,1129,hatchback,manual,t,TRUE,9140,59025,1
+295,maruti celerio,2014,2021-02-26T12:13:35.239,petrol,52108,380199,chennai,753,hatchback,automatic,vxi amt,TRUE,8831,57030,1
+296,maruti ciaz,2015,2021-02-26T07:20:04.279,petrol,100330,537599,noida,1007,sedan,manual,zxi plus,TRUE,12487,80640,1
+297,maruti alto k10,2014,2020-11-16T09:01:47.41,petrol,87237,200399,ghaziabad,375,hatchback,manual,vxi,TRUE,4655,30060,1
+298,maruti alto 800,2013,2021-02-07T11:44:10.399,petrol,29454,252999,bengaluru,962,hatchback,manual,lxi,TRUE,5877,37950,2
+299,maruti ertiga,2017,2021-02-18T13:14:36.564,diesel,51203,768199,pune,785,suv,manual,vdi shvs,FALSE,17843,115230,1
+300,maruti vitara brezza,2017,2021-04-09T12:00:09.432,diesel,150584,731399,ahmedabad,664,suv,manual,zdi plus,TRUE,16989,109710,1
+301,hyundai i10,2010,2021-02-26T06:48:48.97,petrol,87770,199699,new delhi,1159,hatchback,manual,magna 1.2 kappa2,TRUE,4639,29955,1
+302,maruti swift,2012,2020-10-23T07:24:15.722,diesel,95000,260000,ahmedabad,120,,,vdi,FALSE,6039,39000,2
+303,maruti ertiga,2018,2021-03-23T12:22:21.594,petrol & cng,150635,740799,ahmedabad,1709,suv,manual,vxi cng,TRUE,17207,111120,1
+304,maruti swift,2009,2021-02-27T04:42:52.71,petrol,74034,246999,pune,1628,hatchback,manual,zxi 1.3,TRUE,5737,37050,2
+305,honda civic,2011,2021-02-27T14:14:52.896,petrol,640251,346299,noida,5072,sedan,automatic,1.8v at sun roof,TRUE,8044,51945,2
+306,maruti alto k10,2012,2021-02-03T07:45:38.825,petrol,49323,182099,mumbai,2442,hatchback,manual,vxi,TRUE,4230,27315,1
+307,mahindra xuv500,2019,2021-02-17T10:09:28.228,diesel,28580,1125744,ahmedabad,1556,luxury suv,,w5 fwd,TRUE,26148,168862,1
+308,honda city,2010,2021-04-09T06:31:40.407,petrol,119260,247099,pune,2363,sedan,,1.5 e mt petrol,TRUE,5739,37065,1
+309,honda jazz,2016,2019-09-10T13:18:24.375,diesel,58682,500000,new delhi,355,,,1.5 sv i dtec,FALSE,11614,75000,1
+310,maruti baleno,2017,2021-02-26T05:27:46.307,petrol,19792,545999,pune,1943,hatchback,manual,delta 1.2 k12,TRUE,12682,81900,1
+311,maruti celerio,2014,2021-04-04T10:43:20.08,petrol,53916,398299,bengaluru,475,hatchback,automatic,vxi amt,TRUE,9251,59745,2
+312,maruti wagon r 1.0,2017,2021-02-15T07:23:15.684,petrol & cng,51063,409299,mumbai,1221,hatchback,manual,lxi cng,TRUE,9507,61395,1
+313,renault duster,2013,2021-03-27T10:06:28.522,diesel,79962,365099,noida,1875,suv,manual,rxz diesel 110,TRUE,8480,54765,1
+314,hyundai verna,2018,2021-03-27T09:33:40.172,petrol,35859,973399,chennai,241,sedan,manual,1.6 sx vtvt,FALSE,22610,146010,1
+315,maruti ritz,2014,2020-10-14T11:25:05.894,petrol,55075,269099,faridabad,2392,hatchback,manual,lxi,TRUE,6250,40365,1
+316,maruti alto k10,2010,2021-03-31T15:48:20.711,petrol,63843,180699,new delhi,794,hatchback,manual,vxi,TRUE,4197,27105,3
+317,maruti alto,2009,2021-04-06T07:04:07.171,petrol,89307,173699,hyderabad,852,hatchback,manual,lxi,TRUE,4035,26055,1
+318,maruti ciaz,2017,2021-03-16T09:01:38.801,petrol,53935,548599,ahmedabad,167,sedan,manual,vxi plus,FALSE,12743,82290,1
+319,volkswagen vento,2015,2021-04-01T12:20:33.619,petrol,22078,567599,pune,1199,sedan,,highline 1.2 tsi at,TRUE,13184,85140,2
+320,maruti ignis,2017,2021-05-21T09:03:20.743,petrol,4347,500000,new delhi,524,hatchback,manual,zeta 1.2 k12,FALSE,11614,75000,2
+321,honda brio,2013,2021-02-06T15:04:58.333,petrol,44622,289799,mumbai,1268,hatchback,manual,1.2 s mt i vtec,TRUE,6731,43470,1
+322,maruti eeco,2020,2021-04-09T09:55:12.467,petrol,5076,481099,ahmedabad,999,suv,manual,5 str with ac plushtr,TRUE,11175,72165,1
+323,honda amaze,2013,2021-02-25T12:02:52.012,petrol,20924,411499,mumbai,1783,sedan,manual,1.2 smt i vtec,TRUE,9558,61725,1
+324,ford ecosport,2013,2021-02-24T15:19:32.879,diesel,111690,384299,noida,903,suv,manual,1.5titanium tdci,TRUE,8926,57645,1
+325,ford figo,2014,2021-01-10T09:54:46.724,petrol,37000,375000,bengaluru,128,hatchback,,1.2 exi duratec,FALSE,8710,56250,2
+326,maruti sx4,2007,2020-06-01T13:09:56.476,petrol & cng,100178,100000,pune,284,sedan,manual,zxi mt bs iv,FALSE,2323,15000,4
+327,maruti sx4,2008,2021-03-08T11:23:59.342,petrol,117930,163199,new delhi,2807,sedan,manual,vxi,TRUE,3791,24480,1
+328,hyundai i10,2009,2021-04-01T13:24:15.211,petrol,111095,187099,new delhi,228,hatchback,manual,magna 1.2,TRUE,4346,28065,1
+329,volkswagen vento,2016,2021-03-21T09:43:31.174,petrol,96726,623899,bengaluru,1280,sedan,automatic,comfortline tsi at,TRUE,14492,93585,1
+330,hyundai accent,2008,2019-08-24T11:47:39.754,petrol & cng,102602,150000,new delhi,178,sedan,manual,executive gle,TRUE,3484,22500,2
+331,maruti alto 800,2016,2021-03-08T12:59:11.815,petrol,70380,259599,ahmedabad,400,hatchback,manual,lxi,TRUE,6030,38940,1
+332,honda brio,2013,2021-04-17T07:22:34.127,petrol,68916,338699,mumbai,121,hatchback,manual,1.2 s mt i vtec,TRUE,7867,50805,1
+333,maruti wagon r 1.0,2012,2020-08-14T13:40:35.384,petrol & cng,80909,174000,new delhi,836,hatchback,manual,lxi cng,TRUE,4042,26100,2
+334,maruti swift,2010,2020-05-30T13:47:06.534,diesel,103406,152000,new delhi,310,hatchback,manual,ldi bs iv,FALSE,3531,22800,1
+335,maruti ignis,2019,2021-05-01T11:30:31.919,petrol,19564,567099,chennai,173,hatchback,manual,delta 1.2 k12,TRUE,13172,85065,1
+336,renault kwid,2019,2021-03-15T09:46:20.683,petrol,16685,386599,ghaziabad,2183,hatchback,manual,1.0 rxt opt,TRUE,8980,57990,1
+337,maruti alto,2008,2020-05-30T13:14:47.866,petrol,90892,70000,pune,1092,hatchback,manual,lxi,FALSE,1626,10500,4
+338,honda city,2010,2021-03-26T12:52:41.987,petrol,86559,431499,bengaluru,403,sedan,manual,s mt petrol,TRUE,10023,64725,2
+339,hyundai verna,2013,2021-01-05T11:55:24.761,petrol,68242,367699,mumbai,2771,sedan,manual,fluidic 1.6 sx vtvt,TRUE,8541,55155,3
+340,honda city,2014,2021-04-02T05:02:22.168,petrol,67597,631699,bengaluru,531,sedan,manual,v mt petrol,TRUE,14673,94755,2
+341,hyundai verna,2012,2021-02-22T08:45:12.153,diesel,115457,356599,ghaziabad,796,sedan,manual,fluidic 1.6 sx crdi,TRUE,8283,53490,1
+342,maruti dzire,2018,2021-01-18T07:22:56.655,diesel,52996,709499,mumbai,738,sedan,manual,vdi,FALSE,16480,106425,1
+343,maruti ertiga,2013,2021-03-03T06:55:09.577,diesel,115820,456899,new delhi,1319,suv,manual,vdi abs,TRUE,10613,68535,1
+344,hyundai creta,2018,2021-03-25T12:12:34.702,diesel,40049,878999,new delhi,3148,suv,,1.4 e plus crdi,TRUE,20417,131850,1
+345,hyundai verna,2014,2021-04-07T13:10:26.757,petrol,39756,483899,pune,2823,sedan,manual,fluidic 1.6 sx vtvt,TRUE,11240,72585,2
+346,maruti swift,2015,2021-04-10T12:29:24.109,diesel,71640,536399,hyderabad,967,hatchback,manual,vdi abs,TRUE,12459,80460,1
+347,hyundai eon,2014,2021-03-01T13:31:34.916,petrol,31287,286499,bengaluru,557,hatchback,manual,d lite plus,FALSE,6655,42975,3
+348,maruti alto k10,2016,2021-03-31T10:14:31.198,petrol,47833,351199,hyderabad,579,hatchback,,vxi amt,TRUE,8157,52680,2
+349,maruti alto k10,2011,2021-03-14T08:28:56.493,petrol,55810,206999,new delhi,548,hatchback,manual,vxi,TRUE,4808,31050,2
+350,maruti alto k10,2017,2021-03-20T11:05:53.539,petrol,38079,334299,mumbai,378,hatchback,manual,vxi,TRUE,7765,50145,2
+351,maruti swift,2014,2021-03-27T11:02:20.438,petrol,83300,394499,ahmedabad,528,hatchback,manual,vxi,TRUE,9163,59175,1
+352,chevrolet beat,2010,2021-04-04T09:33:43.936,petrol,98553,224699,bengaluru,557,hatchback,manual,ls petrol,TRUE,5219,33705,1
+353,mahindra xuv500,2015,2021-03-23T12:16:54.548,diesel,113208,918099,new delhi,953,luxury suv,manual,w10,TRUE,21325,137715,1
+354,hyundai elite i20,2014,2021-04-22T15:36:30.148,diesel,95243,526999,mumbai,76,hatchback,manual,asta 1.4 crdi,FALSE,12241,79050,1
+355,hyundai i20,2010,2021-04-09T13:06:27.821,petrol,87265,268299,mumbai,79,hatchback,manual,asta 1.2,TRUE,6232,40245,1
+356,chevrolet aveo u va,2006,2019-08-26T13:53:18.224,petrol & cng,63992,80000,ahmedabad,187,hatchback,manual,ls 1.2,FALSE,1858,12000,2
+357,maruti alto,2011,2021-02-26T10:51:37.334,petrol,35039,238599,hyderabad,4266,hatchback,manual,lxi,TRUE,5542,35790,1
+358,maruti wagon r 1.0,2012,2021-02-16T14:56:55.97,petrol,53558,279599,mumbai,321,hatchback,manual,vxi,TRUE,6494,41940,1
+359,toyota etios liva,2011,2021-03-07T09:00:11.852,petrol,36419,257399,mumbai,1690,hatchback,manual,g,TRUE,5979,38610,2
+360,maruti omni e,2015,2021-04-01T05:55:40.023,petrol,67455,280099,bengaluru,1152,,,8 str,FALSE,6506,42015,1
+361,maruti swift dzire,2014,2021-04-04T08:48:57.846,petrol,53935,411099,lucknow,3038,sedan,manual,vxi 1.2 bs iv,TRUE,9549,61665,1
+362,toyota etios liva,2015,2021-03-14T12:01:29.261,petrol,60954,435099,chennai,602,hatchback,manual,g,TRUE,10106,65265,1
+363,maruti dzire,2019,2021-04-24T11:40:42.623,diesel,65709,691699,chennai,183,sedan,manual,vdi,TRUE,16066,103755,1
+364,maruti swift,2012,2021-04-06T13:40:48.925,diesel,123846,327799,new delhi,409,hatchback,manual,vdi,TRUE,7614,49170,1
+365,maruti baleno,2018,2020-11-28T21:30:05.247,diesel,27623,658899,chennai,1243,hatchback,manual,delta ddis 190,TRUE,15305,98835,1
+366,honda city,2017,2021-04-06T07:01:37.784,petrol,57969,790299,ahmedabad,2308,sedan,manual,vx mt petrol,FALSE,18357,118545,1
+367,volkswagen polo,2015,2021-03-31T07:03:31.214,petrol,24134,555899,mumbai,1056,hatchback,automatic,gt tsi 1.2 petrol at,TRUE,12912,83385,1
+368,hyundai venue,2019,2021-03-27T09:19:37.384,petrol,28932,1071103,mumbai,1090,suv,,1.0 turbo gdi sx+ at,TRUE,24879,160666,1
+369,hyundai eon,2015,2021-03-14T06:42:36.428,petrol,82350,260299,ahmedabad,502,hatchback,manual,era plus,FALSE,6046,39045,2
+370,mahindra e2o,2016,2019-12-02T04:55:44.105,electric,58133,350000,bengaluru,261,hatchback,manual,t2,TRUE,8130,52500,1
+371,maruti wagon r 1.0,2011,2021-02-17T05:51:28.34,petrol,36503,290699,chennai,2027,hatchback,manual,vxi,TRUE,6752,43605,2
+372,volkswagen passat,2011,2021-03-20T07:01:17.884,diesel,73715,582899,mumbai,2293,luxury sedan,automatic,highline dsg,TRUE,13539,87435,1
+373,honda city,2012,2021-04-10T12:10:20.847,petrol,87615,478299,hyderabad,1505,sedan,manual,v mt petrol,TRUE,11110,71745,1
+374,toyota corolla altis,2016,2021-04-19T11:23:49.822,petrol,40705,1122108,mumbai,685,luxury sedan,automatic,vl at,FALSE,26064,168317,1
+375,toyota corolla altis,2011,2021-03-11T05:24:19.358,petrol,55925,401099,bengaluru,2685,luxury sedan,,1.8 g,TRUE,9317,60165,4
+376,maruti alto 800,2016,2021-05-04T06:46:09.79,petrol,34151,311399,chennai,83,hatchback,manual,vxi,TRUE,7233,46710,2
+377,maruti vitara brezza,2016,2021-02-09T05:27:27.451,diesel,71468,623799,ghaziabad,787,suv,manual,vdi,TRUE,14489,93570,1
+378,maruti vitara brezza,2016,2021-04-06T09:26:59.403,diesel,28987,777299,hyderabad,2614,suv,manual,zdi,FALSE,18055,116595,1
+379,maruti a star,2009,2021-03-27T04:59:46.847,petrol,107840,184699,pune,831,hatchback,manual,vxi,TRUE,4290,27705,1
+380,maruti swift dzire,2014,2021-04-05T07:45:24.79,petrol,30411,460899,mumbai,370,sedan,manual,vxi 1.2 bs iv,FALSE,10706,69135,2
+381,hyundai grand i10 nios,2020,2021-04-15T09:35:33.699,petrol,379,680899,hyderabad,11041,hatchback,,sportz 1.2 at,TRUE,15816,102135,1
+382,renault duster,2019,2021-04-09T06:58:22.902,petrol,14779,936699,bengaluru,1077,suv,automatic,rxs cvt 106 ps,TRUE,21757,140505,2
+383,maruti baleno,2017,2021-03-15T12:40:00.572,petrol,62516,614099,hyderabad,678,hatchback,manual,zeta 1.2 k12,TRUE,14264,92115,1
+384,hyundai i10,2011,2021-02-10T12:24:11.818,petrol,66622,189499,new delhi,490,hatchback,manual,magna 1.2 kappa2,TRUE,4402,28425,1
+385,maruti ertiga,2012,2021-04-06T08:11:55.51,diesel,51209,590899,mumbai,484,suv,manual,zdi,TRUE,13725,88635,1
+386,maruti vitara brezza,2016,2021-04-12T13:07:22.247,diesel,82420,756099,bengaluru,1350,suv,manual,zdi,TRUE,17562,113415,1
+387,hyundai verna,2012,2021-04-04T11:18:56.939,diesel,88815,413899,bengaluru,4125,sedan,manual,fluidic 1.6 sx crdi,TRUE,9614,62085,5
+388,maruti ritz,2009,2019-09-06T13:09:32.633,petrol & cng,70095,170000,new delhi,159,hatchback,manual,lxi,TRUE,3949,25500,2
+389,maruti ciaz,2018,2021-03-22T05:05:24.312,petrol,49072,690699,ahmedabad,1099,sedan,manual,delta 1.4 vvt,FALSE,16043,103605,1
+390,maruti eeco,2020,2021-03-31T12:33:05.407,petrol,3822,476499,ahmedabad,2952,suv,manual,5 str with ac plushtr,TRUE,11068,71475,1
+391,tata tiago,2017,2021-02-25T13:05:10.152,petrol,33205,489599,bengaluru,1235,hatchback,manual,xz 1.2 revotron,TRUE,11372,73440,1
+392,hyundai i10,2013,2020-05-30T13:24:08.996,petrol,63162,306000,bengaluru,219,hatchback,manual,sportz 1.2 kappa2,FALSE,7108,45900,1
+393,maruti swift,2019,2021-02-28T12:01:19.856,petrol,8940,575099,chennai,2260,hatchback,manual,lxi,TRUE,13358,86265,1
+394,ford ecosport,2013,2021-03-21T09:55:55.086,petrol,48861,474499,chennai,1207,suv,manual,1.0 ecoboost titanium opt,TRUE,11021,71175,1
+395,hyundai elite i20,2015,2021-03-20T05:47:44.687,diesel,106123,480399,new delhi,269,hatchback,manual,magna 1.4 crdi,TRUE,11158,72060,1
+396,maruti swift,2012,2020-12-30T11:11:08.365,diesel,113073,291999,gurgaon,615,hatchback,manual,vdi,TRUE,6782,43800,1
+397,hyundai xcent,2014,2021-03-06T08:09:36.142,petrol,9571,460899,mumbai,931,sedan,manual,sx 1.2 opt,FALSE,10706,69135,1
+398,maruti alto 800,2018,2021-03-16T11:39:32.811,petrol,6662,343299,ahmedabad,1241,hatchback,manual,lxi,TRUE,7974,51495,1
+399,maruti swift,2012,2021-01-11T12:12:02.527,diesel,95321,324599,gurgaon,580,hatchback,manual,zdi,TRUE,7540,48690,1
+400,maruti ertiga,2018,2021-04-04T10:00:07.711,diesel,82508,884399,mumbai,602,suv,manual,vdi shvs,TRUE,20542,132660,1
+401,maruti alto 800,2018,2020-10-25T08:27:42.747,petrol,14275,304399,bengaluru,1142,hatchback,manual,lxi opt,TRUE,7070,45660,1
+402,renault duster,2016,2020-08-09T11:26:20.312,diesel,85369,522599,gurgaon,820,suv,automatic,rxl amt 110 ps,TRUE,12139,78390,1
+403,maruti swift,2015,2021-03-25T14:06:31.219,diesel,171277,511499,hyderabad,1052,hatchback,manual,zdi,TRUE,11881,76725,1
+404,hyundai santro xing,2008,2021-01-23T07:05:14.858,petrol & lpg,84985,166199,hyderabad,9481,hatchback,manual,gl,TRUE,3860,24930,1
+405,hyundai grand i10,2017,2021-03-11T09:03:07.665,petrol,14965,533399,chennai,1741,hatchback,manual,magna 1.2 kappa vtvt,TRUE,12390,80010,1
+406,maruti swift dzire,2014,2021-01-18T17:51:17.109,diesel,88835,354099,new delhi,1485,sedan,manual,vdi bs iv,TRUE,8225,53115,1
+407,tata nano,2014,2021-03-20T12:32:27.102,petrol,9392,187599,pune,3525,hatchback,automatic,twist xta,TRUE,4357,28140,1
+408,volkswagen polo,2014,2021-03-14T10:58:55.661,diesel,107465,366399,noida,896,hatchback,manual,highline1.2l diesel,TRUE,8511,54960,1
+409,hyundai elite i20,2017,2021-03-25T08:24:15.616,petrol,38526,623899,hyderabad,1175,hatchback,manual,sportz 1.2,TRUE,14492,93585,2
+410,maruti swift,2010,2021-03-20T12:31:46.941,petrol,72363,202899,new delhi,2187,hatchback,manual,lxi,TRUE,4713,30435,1
+411,bmw 3 series,2011,2021-02-13T08:38:28.384,diesel,90696,694299,pune,3650,luxury sedan,automatic,320 d performance edition,TRUE,16127,104145,2
+412,mercedes benz c class,2014,2021-03-11T07:34:44.869,petrol,23856,1335521,mumbai,2632,luxury sedan,,c200 cgi grand edition,FALSE,31021,200329,2
+413,maruti dzire,2017,2021-02-18T06:09:36.18,diesel,76040,707799,chennai,1107,sedan,automatic,zdi plus amt,TRUE,16440,106170,1
+414,tata nexon,2019,2021-03-03T12:01:24.222,diesel,20995,973899,mumbai,3270,suv,,xza+ 1.5,TRUE,22621,146085,1
+415,renault kwid,2015,2021-04-21T08:39:31.21,petrol,23144,286899,hyderabad,2395,hatchback,manual,rxt,TRUE,6664,43035,1
+416,nissan micra,2015,2021-03-23T07:07:49.401,petrol,79035,384699,bengaluru,1293,hatchback,automatic,xl cvt (petrol),TRUE,8936,57705,1
+417,honda br-v,2017,2021-03-30T07:46:11.792,petrol,54562,806099,chennai,2046,suv,automatic,1.5 i-vtec v cvt,TRUE,18724,120915,1
+418,ford ecosport,2017,2021-03-25T10:23:33.177,petrol,18510,606699,mumbai,3623,suv,manual,1.5 trend ti vct,TRUE,14092,91005,1
+419,hyundai i10,2013,2021-02-28T07:41:47.65,petrol,22201,469299,bengaluru,461,hatchback,automatic,sportz 1.2 at kappa2,FALSE,10901,70395,1
+420,renault duster,2017,2021-03-06T13:38:32.946,diesel,46220,887499,pune,2424,suv,automatic,rxz amt 110 ps,FALSE,20614,133125,1
+421,audi q3,2012,2021-04-07T11:26:56.59,diesel,113771,1119381,gurgaon,1241,luxury suv,automatic,2.0 tdi quattro,TRUE,26000,167908,1
+422,hyundai grand i10,2016,2021-01-24T15:19:57.19,petrol,41357,352299,gurgaon,348,hatchback,manual,magna 1.2 vtvt,TRUE,8183,52845,1
+423,toyota innova,2010,2021-03-20T09:53:48.036,diesel,233928,536199,mumbai,259,suv,manual,2.5 g4 8 str,TRUE,12455,80430,2
+424,maruti wagon r 1.0,2014,2020-12-01T07:41:29.381,petrol,23233,357399,hyderabad,2906,hatchback,manual,vxi,TRUE,8301,53610,2
+425,maruti wagon r,2012,2021-02-22T13:58:36.826,petrol,71968,298599,bengaluru,3092,hatchback,manual,vxi,FALSE,6936,44790,2
+426,hyundai i10,2008,2021-03-18T10:57:43.451,petrol,85606,304599,bengaluru,543,hatchback,automatic,magna 1.2 at,TRUE,7075,45690,1
+427,mahindra tuv300,2015,2019-03-30T14:34:42.215,diesel,74825,490000,new delhi,95,suv,manual,t6,FALSE,11381,73500,1
+428,nissan micra,2011,2021-04-01T12:01:25.881,petrol,48380,199699,mumbai,3523,hatchback,manual,xv petrol,FALSE,4639,29955,2
+429,maruti alto k10,2013,2021-03-10T07:43:30.889,petrol,9676,299599,bengaluru,5709,hatchback,manual,vxi,TRUE,6959,44940,1
+430,maruti alto,2010,2021-04-11T06:49:02.126,petrol,57695,205199,hyderabad,550,hatchback,manual,lxi,TRUE,4766,30780,2
+431,maruti ritz,2010,2021-03-05T17:34:43.515,petrol,19432,241199,mumbai,817,hatchback,manual,zxi,FALSE,5602,36180,1
+432,maruti a star,2010,2021-02-14T07:12:11.926,petrol,46021,246699,bengaluru,2276,hatchback,manual,vxi,TRUE,5730,37005,2
+433,honda city,2014,2021-04-01T08:07:06.581,diesel,90426,523899,new delhi,356,sedan,manual,v mt diesel,TRUE,12169,78585,1
+434,volkswagen polo,2015,2021-03-06T09:26:06.498,petrol,58384,531899,bengaluru,917,hatchback,manual,highline1.2l petrol,TRUE,12355,79785,2
+435,nissan micra,2013,2021-03-04T14:10:38.146,petrol,46281,283099,chennai,2605,hatchback,manual,xl petrol,TRUE,6576,42465,2
+436,maruti dzire,2017,2021-04-21T12:29:42.043,petrol,29115,664399,hyderabad,693,sedan,manual,vxi,TRUE,15432,99660,1
+437,hyundai eon,2015,2021-04-14T13:42:20.448,petrol,36995,297799,hyderabad,573,hatchback,manual,era plus,TRUE,6917,44670,1
+438,maruti baleno,2017,2021-03-25T11:27:26.404,diesel,80193,581099,gurgaon,1514,hatchback,manual,alpha ddis 190,TRUE,13497,87165,1
+439,hyundai creta,2015,2021-03-26T06:02:35.663,diesel,78599,959399,pune,2261,suv,automatic,1.6 crdi sx plus auto,TRUE,22284,143910,2
+440,mahindra bolero,2013,2021-04-09T10:37:48.2,diesel,85256,378999,noida,4708,suv,manual,zlx,FALSE,8803,56850,1
+441,maruti alto,2007,2021-02-18T11:29:34.208,petrol,33538,189599,bengaluru,3590,hatchback,manual,lxi,FALSE,4404,28440,1
+442,honda amaze,2014,2021-03-31T13:35:32.57,petrol,100187,400099,new delhi,62,sedan,manual,1.2 smt i vtec,TRUE,9293,60015,2
+443,honda city,2014,2021-03-16T12:57:18.168,diesel,101866,531399,pune,1356,sedan,manual,v mt diesel,TRUE,12343,79710,2
+444,hyundai xcent,2014,2021-02-16T12:40:04.502,petrol,50672,358799,lucknow,4945,sedan,manual,sx 1.2 opt,TRUE,8334,53820,2
+445,maruti swift dzire,2015,2021-02-27T09:13:43.896,diesel,74575,536099,chennai,664,sedan,manual,vdi bs iv,TRUE,12452,80415,1
+446,volkswagen polo,2015,2021-03-23T09:28:19.503,petrol,84281,421499,mumbai,556,hatchback,manual,highline1.2l petrol,FALSE,9790,63225,1
+447,maruti wagon r 1.0,2014,2020-11-17T12:43:14.631,petrol,43955,387199,bengaluru,784,hatchback,manual,vxi,TRUE,8994,58080,1
+448,maruti swift,2015,2020-09-26T22:30:00.844,diesel,72955,390000,ahmedabad,409,hatchback,manual,vdi,FALSE,9059,58500,2
+449,maruti ciaz,2018,2020-11-09T05:18:41.612,petrol,47051,664599,ahmedabad,1742,sedan,manual,zeta 1.4 vvt,TRUE,15437,99690,1
+450,maruti ritz,2009,2021-03-27T10:27:30.92,diesel,170681,313799,bengaluru,649,hatchback,manual,vdi,TRUE,7289,47070,1
+451,hyundai verna,2012,2021-04-09T09:35:00.658,diesel,109303,358399,new delhi,2826,sedan,manual,fluidic 1.6 sx crdi,TRUE,8325,53760,1
+452,maruti swift,2014,2021-03-02T11:54:23.358,petrol,113481,383599,mumbai,731,hatchback,manual,vxi,TRUE,8910,57540,1
+453,maruti ertiga,2013,2021-03-09T15:57:45.461,diesel,54021,645099,mumbai,1343,suv,manual,zdi,FALSE,14984,96765,1
+454,maruti eeco,2019,2021-03-19T04:56:44.452,petrol & cng,45317,452399,ahmedabad,501,suv,manual,5 str with ac plushtr,TRUE,10508,67860,1
+455,ford figo,2011,2021-03-25T15:15:17.118,petrol,26569,263199,hyderabad,2156,hatchback,manual,1.2 zxi duratec,TRUE,6113,39480,1
+456,maruti ciaz,2018,2021-03-20T10:34:06.46,petrol,30904,828499,new delhi,2139,sedan,,alpha 1.5 at vtvt shvs,TRUE,19244,124275,1
+457,maruti alto k10,2018,2021-03-23T10:29:47.116,petrol & cng,53156,302099,new delhi,2160,hatchback,,lxi cng (o),TRUE,7017,45315,1
+458,maruti baleno,2019,2021-03-28T06:41:51.216,petrol,12583,695599,bengaluru,1089,hatchback,manual,delta 1.2 k12,TRUE,16157,104340,1
+459,ford ecosport,2015,2021-04-04T05:27:36.22,petrol,61188,607999,mumbai,631,suv,automatic,1.5 titanium ti vct at,TRUE,14122,91200,1
+460,hyundai i10,2009,2021-04-01T06:55:20.02,petrol,101199,179199,new delhi,714,hatchback,manual,magna 1.2,TRUE,4162,26880,1
+461,hyundai i10,2009,2021-02-28T07:31:41.709,petrol,37982,197099,new delhi,1913,hatchback,manual,magna 1.2,TRUE,4578,29565,2
+462,maruti ciaz,2014,2021-02-27T08:17:50.557,petrol,56469,479999,new delhi,1184,sedan,manual,zxi,TRUE,11149,72000,1
+463,hyundai elite i20,2019,2021-04-08T09:23:13.411,petrol,11855,628299,chennai,495,hatchback,,1.2 magna plus vtvt,TRUE,14594,94245,2
+464,maruti swift,2014,2021-03-20T06:05:36.464,petrol,12720,510899,chennai,2427,hatchback,manual,zxi,TRUE,11867,76635,1
+465,maruti swift,2009,2021-05-30T10:49:26.943,petrol,76508,195059,gurgaon,6,hatchback,manual,vxi,TRUE,4531,29259,4
+466,hyundai grand i10,2017,2021-03-03T05:48:04.029,petrol,14538,478299,ahmedabad,579,hatchback,manual,magna 1.2 kappa vtvt,TRUE,11110,71745,1
+467,tata nano,2010,2019-03-13T13:53:00.826,petrol,53390,35000,ghaziabad,740,hatchback,manual,lx,FALSE,813,5250,2
+468,maruti swift,2015,2021-01-27T12:10:31.578,petrol,57036,485399,bengaluru,569,hatchback,manual,vxi,TRUE,11275,72810,1
+469,maruti alto 800,2017,2021-05-28T12:19:34.954,petrol,43072,270000,new delhi,166,hatchback,manual,lxi,FALSE,6271,40500,2
+470,honda amaze,2020,2021-04-11T14:27:43.715,petrol,9344,685399,noida,3461,sedan,manual,1.2 smt i vtec,TRUE,15920,102810,1
+471,renault kwid,2019,2021-01-04T07:27:24.112,petrol,7343,400699,bengaluru,3550,hatchback,manual,rxt opt,TRUE,9307,60105,1
+472,ford ecosport,2020,2021-03-15T12:36:07.677,diesel,11371,981199,hyderabad,6143,suv,manual,1.5titanium tdci,TRUE,22791,147180,1
+473,volkswagen polo,2014,2021-02-16T13:23:10.365,petrol,56316,420099,mumbai,994,hatchback,manual,highline1.2l petrol,TRUE,9758,63015,1
+474,tata manza,2012,2021-03-31T15:01:34.045,diesel,107319,256499,pune,521,sedan,manual,ex quadrajet,TRUE,5958,38475,1
+475,ford ecosport,2017,2020-10-22T06:39:27.799,diesel,52212,692899,gurgaon,1746,suv,,1.5 tdci titanium plus,TRUE,16094,103935,1
+476,honda wr-v,2017,2021-03-16T09:57:28.867,petrol,37386,727299,mumbai,539,suv,manual,1.2 i-vtec vx mt,TRUE,16893,109095,1
+477,maruti wagon r 1.0,2011,2021-03-30T12:39:09.836,petrol & cng,109283,274299,ghaziabad,27,hatchback,manual,lxi cng,TRUE,6371,41145,1
+478,honda city,2017,2021-04-16T07:50:41.083,petrol,89362,921799,hyderabad,1296,sedan,automatic,vx cvt petrol,TRUE,21411,138270,1
+479,maruti wagon r 1.0,2012,2021-03-24T12:33:37.715,petrol,37135,295599,pune,3420,hatchback,manual,vxi,FALSE,6866,44340,1
+480,hyundai verna,2016,2021-04-07T10:35:08.477,petrol,22884,618799,ahmedabad,2996,sedan,manual,fluidic 1.6 vtvt s,TRUE,14373,92820,1
+481,maruti ertiga,2017,2021-04-15T07:32:55.155,diesel,43634,811699,hyderabad,2279,suv,manual,vdi shvs limited edition,TRUE,18854,121755,1
+482,hyundai tucson new,2018,2021-03-27T13:34:31.451,diesel,72527,1651146,bengaluru,2410,luxury suv,automatic,2wd at gls diesel,TRUE,38352,247672,2
+483,volkswagen polo,2010,2021-03-14T12:58:02.468,petrol,42795,285599,pune,1985,hatchback,manual,highline1.2l petrol,FALSE,6634,42840,1
+484,honda amaze,2014,2021-04-03T09:40:18.934,petrol,46348,408899,bengaluru,1847,sedan,manual,1.2 exmt i vtec,TRUE,9498,61335,1
+485,mercedes benz e class,2012,2021-03-06T15:09:48.749,petrol,98842,1139985,mumbai,1373,luxury sedan,manual,e 200 avantgarde,FALSE,26479,170998,2
+486,hyundai elite i20,2016,2021-03-24T10:14:05.442,petrol,95260,453799,pune,1876,hatchback,manual,magna 1.2,TRUE,10541,68070,1
+487,maruti alto 800,2012,2021-02-12T13:49:11.966,petrol,28610,256399,bengaluru,4326,hatchback,manual,lxi,TRUE,5956,38460,1
+488,maruti alto 800,2016,2021-04-20T02:37:19.583,petrol,41120,302099,chennai,317,hatchback,manual,lxi,TRUE,7017,45315,2
+489,maruti swift dzire,2014,2021-03-24T11:51:51.988,diesel,81540,547899,hyderabad,465,sedan,manual,vdi bs iv,TRUE,12726,82185,1
+490,tata zest,2016,2021-05-28T11:21:12.04,diesel,46455,300000,new delhi,230,sedan,manual,xms quadrajet 90ps,FALSE,6968,45000,1
+491,maruti ritz,2013,2021-03-08T04:32:33.615,diesel,70687,285299,new delhi,852,hatchback,manual,vdi,FALSE,6627,42795,1
+492,maruti zen estilo,2011,2021-03-12T09:17:10.098,petrol,33717,200799,faridabad,536,hatchback,manual,lxi,TRUE,4664,30120,1
+493,maruti eeco,2018,2021-03-21T10:51:08.145,petrol & cng,92405,422299,ahmedabad,427,suv,manual,5 str with ac plushtr,TRUE,9809,63345,1
+494,hyundai i10,2013,2020-11-12T13:30:25.839,petrol,59555,370299,bengaluru,770,hatchback,automatic,sportz 1.2 at kappa2,TRUE,8601,55545,2
+495,maruti celerio,2014,2021-04-01T12:11:22.815,petrol,101361,367399,pune,420,hatchback,manual,vxi,TRUE,8534,55110,2
+496,maruti wagon r 1.0,2014,2021-03-15T12:16:00.21,petrol,62642,410099,bengaluru,273,hatchback,manual,vxi,TRUE,9526,61515,1
+497,honda city,2017,2020-05-30T13:33:04.441,petrol,52028,850000,new delhi,196,sedan,manual,vx mt petrol,FALSE,19743,127500,1
+498,hyundai eon,2015,2021-04-04T10:01:04.662,petrol,26270,263999,ghaziabad,2034,hatchback,manual,era plus,TRUE,6132,39600,1
+499,volkswagen polo,2012,2021-02-19T09:17:31.509,petrol,56032,295299,new delhi,2826,hatchback,manual,comfortline 1.2l petrol,TRUE,6859,44295,2
+500,maruti s cross,2017,2021-03-26T12:43:21.513,diesel,113808,662399,pune,1045,suv,manual,zeta 1.3,TRUE,15386,99360,1
+501,hyundai grand i10,2015,2021-04-08T08:55:36.315,petrol,15839,504799,bengaluru,338,hatchback,manual,sportz 1.2 kappa vtvt,FALSE,11725,75720,1
+502,jaguar xj l,2014,2020-10-30T08:48:46.579,diesel,2288,3866000,gurgaon,410,luxury sedan,automatic,3.0 v 6 premium luxury,FALSE,89798,579901,1
+503,nissan sunny,2014,2021-03-21T13:48:55.134,diesel,22411,478899,chennai,1700,sedan,manual,xv diesel,TRUE,11124,71835,1
+504,hyundai i10,2010,2021-02-28T06:28:47.422,petrol,84850,216999,new delhi,482,hatchback,manual,sportz 1.2,TRUE,5040,32550,1
+505,maruti alto,2020,2021-04-07T11:21:45.385,petrol,6942,363499,ahmedabad,870,hatchback,manual,vxi,TRUE,8443,54525,1
+506,renault kwid,2015,2021-02-02T05:06:20.528,petrol,32671,288699,chennai,5251,hatchback,manual,rxt opt,TRUE,6706,43305,1
+507,hyundai grand i10,2015,2021-03-02T07:30:18.652,petrol,41688,401999,bengaluru,994,hatchback,manual,era 1.2 kappa vtvt,FALSE,9337,60300,1
+508,maruti ertiga,2019,2021-04-01T11:42:49.14,petrol,25469,874799,new delhi,1637,suv,,zxi plus shvs,TRUE,20319,131220,1
+509,ford ecosport,2013,2021-04-16T06:13:52.35,diesel,90309,383699,ghaziabad,1111,suv,manual,1.5 ambiente tdci,TRUE,8912,57555,3
+510,maruti celerio,2015,2021-02-22T05:57:00.561,petrol,5972,377899,mumbai,1591,hatchback,manual,zxi,TRUE,8778,56685,1
+511,honda amaze,2016,2021-02-28T09:36:29.431,petrol,43240,435599,mumbai,748,sedan,manual,1.2 sx mt i vtec,TRUE,10118,65340,1
+512,maruti swift dzire,2012,2021-03-22T10:19:28.535,petrol,112871,417799,hyderabad,628,sedan,manual,vxi 1.2 bs iv,TRUE,9704,62670,1
+513,volkswagen ameo,2019,2021-03-18T11:59:11.232,petrol,47782,430399,ahmedabad,2318,sedan,,trendline 1.0,FALSE,9997,64560,1
+514,hyundai elite i20,2015,2021-03-10T13:50:07.112,petrol,37023,507799,new delhi,2064,hatchback,manual,sportz (o) 1.2,TRUE,11795,76170,1
+515,toyota fortuner,2013,2021-03-06T11:57:47.624,diesel,205697,1105948,noida,1695,luxury suv,manual,3.0 mt 4x2,TRUE,25688,165893,1
+516,maruti alto k10,2017,2021-04-07T13:49:30.503,petrol,23023,361899,bengaluru,770,hatchback,,vxi amt,TRUE,8406,54285,2
+517,honda amaze,2015,2021-03-12T07:13:07.878,diesel,136775,291999,noida,1801,sedan,manual,1.5 smt i dtec,TRUE,6782,43800,1
+518,honda amaze,2015,2021-02-13T08:41:53.63,petrol,72343,376799,mumbai,1842,sedan,manual,1.2 smt i vtec,TRUE,8752,56520,1
+519,hyundai i20,2011,2021-04-18T10:43:17.509,petrol,58202,337399,pune,256,hatchback,manual,magna o 1.2,TRUE,7837,50610,2
+520,renault duster,2013,2021-04-13T06:01:49.772,diesel,81382,476899,mumbai,396,suv,manual,rxz diesel 110,TRUE,11077,71535,1
+521,maruti ertiga,2015,2021-04-04T08:14:15.203,petrol,62928,531499,ahmedabad,2536,suv,manual,vxi,TRUE,12345,79725,1
+522,maruti swift,2012,2021-04-04T12:35:52.759,petrol,70522,407299,new delhi,741,hatchback,manual,zxi,TRUE,9461,61095,1
+523,hyundai i10,2010,2021-03-05T09:30:12.556,petrol,88895,175199,new delhi,1831,hatchback,manual,era 1.1 irde,TRUE,4069,26280,1
+524,hyundai elite i20,2015,2021-03-13T07:50:36.414,petrol,36307,552599,new delhi,1378,hatchback,manual,asta 1.2,TRUE,12835,82890,1
+525,datsun redi go,2016,2020-12-21T21:30:00.766,petrol,36414,200000,hyderabad,422,hatchback,manual,t (o),TRUE,4646,30000,1
+526,maruti baleno,2016,2020-10-29T14:28:26.942,petrol,16491,669799,mumbai,1296,hatchback,automatic,zeta 1.2 k12 amt,FALSE,15558,100470,1
+527,hyundai i20,2010,2021-03-19T12:35:54.716,petrol,90062,373299,bengaluru,419,hatchback,manual,sportz 1.2 o,FALSE,8671,55995,1
+528,hyundai verna,2012,2021-03-20T09:40:27.952,petrol,25375,376799,mumbai,900,sedan,manual,fluidic 1.4 vtvt,TRUE,8752,56520,1
+529,hyundai creta,2016,2021-04-03T10:34:07.236,diesel,28787,1021411,mumbai,2640,suv,manual,1.6 sx plus diesel,TRUE,23725,153212,1
+530,hyundai i10,2012,2021-04-10T14:17:49.505,petrol,47840,379999,chennai,989,hatchback,automatic,asta 1.2 at kappa2 with sunroof,TRUE,8826,57000,2
+531,maruti swift dzire,2008,2021-02-13T13:05:54.976,petrol,143363,156899,new delhi,4491,sedan,manual,lxi 1.3,TRUE,3644,23535,1
+532,maruti alto k10,2012,2021-01-31T12:32:44.996,petrol,81759,218999,hyderabad,992,hatchback,manual,lxi,TRUE,5087,32850,2
+533,ford ecosport,2019,2021-02-27T18:47:47.987,petrol,29962,855199,mumbai,2041,suv,manual,1.5 titanium ti vct,TRUE,19864,128280,1
+534,maruti ritz,2010,2021-03-06T12:54:46.054,petrol,61156,362699,bengaluru,373,hatchback,manual,lxi,FALSE,8425,54405,1
+535,hyundai creta,2015,2021-03-10T09:28:04.1,diesel,94412,812499,chennai,1544,suv,automatic,1.6 crdi sx plus auto,TRUE,18872,121875,1
+536,hyundai santro xing,2008,2021-03-13T13:23:24.115,petrol,53131,205799,hyderabad,746,hatchback,manual,gls,TRUE,4780,30870,2
+537,hyundai i10,2011,2021-03-16T09:37:17.034,petrol,35533,317399,hyderabad,2054,hatchback,manual,magna 1.2 kappa2,TRUE,7372,47610,1
+538,maruti sx4,2011,2021-03-21T11:51:30.615,petrol,77761,233699,mumbai,1628,sedan,manual,zxi mt bs iv,TRUE,5428,35055,2
+539,audi a4,2013,2021-01-20T10:36:31.5,diesel,94895,1063528,ghaziabad,2582,luxury sedan,automatic,2.0 tdi 174bhp prm plus,TRUE,24703,159530,3
+540,honda city zx,2008,2019-04-01T12:53:09.011,petrol,113515,80000,new delhi,707,sedan,automatic,gxi cvt,FALSE,1858,12000,1
+541,hyundai i20,2012,2021-01-22T13:08:13.742,petrol,83304,405099,bengaluru,933,hatchback,manual,sportz 1.2 vtvt,TRUE,9409,60765,1
+542,maruti wagon r 1.0,2016,2021-01-10T09:29:04.895,petrol,45170,385499,bengaluru,823,hatchback,manual,vxi,TRUE,8954,57825,1
+543,maruti swift,2012,2021-03-29T06:46:44.916,petrol,63009,470799,bengaluru,421,hatchback,manual,vxi,FALSE,10935,70620,1
+544,tata hexa,2018,2021-04-13T09:29:33.349,diesel,24707,1189172,ahmedabad,2565,suv,automatic,varicor 400 xta,TRUE,27621,178376,1
+545,honda city,2014,2019-08-25T11:41:38.834,diesel,122250,400000,ghaziabad,184,sedan,manual,s mt diesel,TRUE,9291,60000,2
+546,maruti wagon r 1.0,2015,2021-04-27T07:33:35.49,petrol,39094,383199,pune,339,hatchback,manual,vxi,TRUE,8901,57480,2
+547,toyota innova,2014,2021-01-01T07:02:21.761,diesel,80584,668299,noida,1724,suv,manual,2.5 gx 8 str bs iv,TRUE,15523,100245,1
+548,hyundai creta,2018,2021-04-20T14:11:31.131,diesel,18794,880799,chennai,671,suv,,1.4 e plus crdi,TRUE,20459,132120,2
+549,maruti ciaz,2015,2021-03-07T13:17:02.485,petrol,37429,520499,mumbai,955,sedan,manual,vxi,TRUE,12090,78075,1
+550,maruti swift dzire,2013,2021-04-06T12:42:44.923,diesel,85864,524399,hyderabad,571,sedan,manual,vdi bs iv,TRUE,12180,78660,2
+551,maruti vitara brezza,2019,2021-02-14T17:52:36.898,diesel,39910,928599,mumbai,1291,suv,automatic,zdi + amt,TRUE,21569,139290,2
+552,maruti swift,2010,2021-04-03T08:14:11.579,petrol,47861,264499,new delhi,955,hatchback,manual,vxi,TRUE,6144,39675,1
+553,renault kwid,2016,2021-03-11T07:14:38.427,petrol,14773,381599,bengaluru,755,hatchback,manual,rxt opt,TRUE,8864,57240,1
+554,honda city,2014,2021-04-03T07:54:04.579,petrol,66724,529899,mumbai,617,sedan,manual,v mt petrol,TRUE,12308,79485,1
+555,toyota etios,2011,2021-03-30T07:17:14.992,petrol & cng,82523,252499,new delhi,1743,sedan,manual,g,TRUE,5865,37875,2
+556,hyundai grand i10,2016,2021-03-09T10:25:33.885,petrol,27015,492199,hyderabad,967,hatchback,manual,sports 1.2 vtvt,TRUE,11433,73830,1
+557,tata tiago,2017,2021-03-16T06:14:32.003,petrol,8280,542499,bengaluru,1279,hatchback,manual,xz 1.2 revotron,TRUE,12601,81375,1
+558,toyota innova,2012,2020-06-22T13:29:05.572,diesel,300672,540000,mumbai,126,suv,manual,2.5 g4 7 str,FALSE,12543,81000,1
+559,maruti ertiga,2014,2021-03-17T14:49:19.662,petrol,73364,523499,new delhi,1010,suv,manual,vxi,TRUE,12160,78525,1
+560,hyundai grand i10,2016,2021-03-14T08:49:11.537,petrol,32496,492399,chennai,1177,hatchback,automatic,1.2 asta (o) at,TRUE,11437,73860,1
+561,hyundai i10,2008,2021-03-17T05:15:39.965,petrol,119960,199299,pune,751,hatchback,manual,magna 1.2,TRUE,4629,29895,2
+562,hyundai i10,2013,2021-02-26T07:55:09.556,petrol & lpg,64318,302499,hyderabad,425,hatchback,manual,magna 1.1 lpg,TRUE,7026,45375,2
+563,hyundai i10,2010,2021-04-30T10:14:29.491,petrol,21013,244699,new delhi,1230,hatchback,manual,magna 1.2 kappa2,TRUE,5684,36705,1
+564,skoda laura,2011,2021-04-17T07:23:47.203,petrol,62555,252799,mumbai,307,luxury sedan,manual,ambiente 1.8 tsi,TRUE,5872,37920,1
+565,volkswagen vento,2010,2021-02-10T12:50:24.018,petrol,42013,248999,mumbai,2400,sedan,manual,trendline petrol,TRUE,5784,37350,1
+566,volkswagen vento,2012,2021-04-10T09:43:58.114,petrol,100609,301199,mumbai,410,sedan,manual,trendline petrol,TRUE,6996,45180,1
+567,hyundai i10,2008,2021-04-01T09:59:15.332,petrol,82148,199899,pune,1805,hatchback,manual,magna o with sunroof,TRUE,4643,29985,3
+568,toyota etios,2014,2021-03-26T09:32:37.238,petrol,47920,357399,new delhi,2304,sedan,manual,g,TRUE,8301,53610,1
+569,tata tiago,2018,2021-04-21T12:03:22.604,petrol,16534,472599,pune,1884,hatchback,manual,xz 1.2 revotron,TRUE,10977,70890,1
+570,chevrolet beat,2013,2021-03-25T11:27:37.189,diesel,45258,259099,bengaluru,2910,hatchback,manual,lt diesel,TRUE,6018,38865,1
+571,hyundai i20,2013,2021-03-19T11:46:09.059,petrol,50232,424299,pune,3016,hatchback,manual,asta 1.2,TRUE,9855,63645,1
+572,ford ecosport,2016,2021-03-04T13:28:35.677,diesel,121507,503199,ghaziabad,1863,suv,manual,1.5 trend+ tdci,TRUE,11688,75480,1
+573,maruti swift,2018,2021-02-18T12:01:46.226,petrol,41350,592499,bengaluru,1063,hatchback,manual,vxi,FALSE,13762,88875,1
+574,maruti swift dzire,2010,2021-03-09T15:26:39.509,petrol,44505,268799,gurgaon,1116,sedan,manual,vxi,TRUE,6244,40320,1
+575,volkswagen polo,2015,2021-02-02T07:14:33.712,diesel,133949,403499,pune,1323,hatchback,manual,comfortline 1.5l diesel,TRUE,9372,60525,1
+576,maruti new  wagon-r,2019,2021-03-11T11:17:37.048,petrol,4792,473799,ghaziabad,6533,,,vxi 1.0,TRUE,11005,71070,1
+577,honda city,2010,2021-04-19T10:15:01.98,petrol,93671,332899,pune,1469,sedan,automatic,v at,TRUE,7732,49935,2
+578,honda civic,2007,2021-02-20T07:32:20.679,petrol,98787,251899,hyderabad,6599,sedan,manual,1.8s mt,TRUE,5851,37785,2
+579,honda city,2014,2019-04-01T09:17:31.756,diesel,122226,590000,hyderabad,41,sedan,manual,sv mt diesel,FALSE,13704,88500,1
+580,hyundai creta,2018,2021-02-26T09:34:40.079,diesel,30872,1449045,mumbai,1317,suv,,1.6 sx at crdi,TRUE,33658,217357,1
+581,honda amaze,2014,2021-04-03T10:49:27.948,petrol,75156,389899,mumbai,445,sedan,manual,1.2 exmt i vtec,TRUE,9056,58485,1
+582,maruti wagon r 1.0,2015,2021-01-03T09:25:41.312,petrol,27767,323099,mumbai,1814,hatchback,manual,vxi,TRUE,7505,48465,1
+583,maruti alto 800,2012,2021-03-26T05:39:15.371,petrol,81861,186999,faridabad,978,hatchback,manual,lxi,TRUE,4344,28050,1
+584,hyundai i20,2013,2020-08-09T12:36:28.963,diesel,41999,341999,new delhi,4499,hatchback,manual,sportz 1.4 crdi,TRUE,7944,51300,1
+585,maruti swift dzire,2013,2021-03-10T05:49:12.062,diesel,129364,344799,gurgaon,534,sedan,manual,vdi bs iv,TRUE,8009,51720,1
+586,hyundai grand i10,2013,2021-03-20T07:26:03.51,petrol,76084,312199,new delhi,1014,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,7252,46830,1
+587,honda city,2012,2021-04-07T07:40:36.369,petrol,99219,351499,new delhi,776,sedan,manual,v mt petrol,TRUE,8164,52725,2
+588,skoda superb,2012,2021-01-27T18:45:09.728,petrol,76434,351399,mumbai,3265,luxury sedan,manual,elegance 1.8 tsi mt,TRUE,8162,52710,2
+589,maruti swift dzire,2009,2021-02-16T18:05:44.652,petrol,191532,186299,new delhi,1490,sedan,manual,vxi 1.3,TRUE,4327,27945,1
+590,maruti wagon r 1.0,2013,2021-01-12T14:11:07.013,petrol & cng,227458,274399,pune,1532,hatchback,manual,lxi cng,TRUE,6374,41160,1
+591,maruti ritz,2011,2021-02-23T14:39:40.382,petrol,36916,240499,new delhi,3420,hatchback,manual,vxi bs iv,TRUE,5586,36075,1
+592,maruti alto 800,2016,2021-03-04T04:52:48.693,petrol,32883,287299,chennai,1222,hatchback,manual,lxi,TRUE,6673,43095,2
+593,maruti alto k10,2017,2021-03-05T08:58:18.665,petrol,11733,358699,chennai,1642,hatchback,manual,vxi opt,TRUE,8332,53805,1
+594,hyundai i10,2009,2021-02-15T05:24:37.426,petrol,72858,165199,new delhi,1442,hatchback,manual,magna 1.2,TRUE,3837,24780,2
+595,hyundai creta,2016,2021-03-20T11:54:00.794,diesel,51353,837999,new delhi,1935,suv,,1.6 sx crdi,TRUE,19465,125700,1
+596,maruti swift,2015,2021-03-03T04:40:10.06,petrol,48615,415299,ghaziabad,1343,hatchback,manual,vxi,TRUE,9646,62295,1
+597,maruti wagon r 1.0,2011,2021-04-19T08:36:26.597,petrol,36084,273899,mumbai,188,hatchback,manual,vxi,TRUE,6362,41085,2
+598,maruti swift,2018,2021-03-24T11:48:37.044,diesel,65207,684199,hyderabad,2465,hatchback,manual,zdi,TRUE,15892,102630,1
+599,maruti ritz,2011,2021-03-03T16:13:49.956,petrol,17980,270699,noida,1841,hatchback,manual,vxi bs iv,TRUE,6288,40605,1
+600,hyundai elite i20,2016,2021-03-03T12:50:21.543,petrol,33044,570599,hyderabad,1218,hatchback,manual,sportz 1.2,FALSE,13254,85590,2
+601,hyundai i10,2015,2021-04-22T12:52:45.124,petrol,15440,337199,kolkata,2882,hatchback,manual,sportz 1.1 irde2,TRUE,7832,50580,1
+602,hyundai eon,2012,2021-04-04T12:52:01.39,petrol,88747,290299,chennai,272,hatchback,manual,era plus,TRUE,6743,43545,1
+603,honda brio,2013,2021-04-03T09:47:59.673,petrol,51650,274099,new delhi,1150,hatchback,manual,1.2 s mt i vtec,TRUE,6367,41115,1
+604,maruti wagon r 1.0,2012,2021-02-27T12:45:42.753,petrol & cng,47356,235199,new delhi,828,hatchback,manual,lxi cng,TRUE,5463,35280,1
+605,maruti alto 800,2014,2021-03-26T06:54:07.02,petrol,65487,259099,chennai,162,hatchback,manual,lxi,TRUE,6018,38865,1
+606,maruti swift,2015,2021-04-19T13:34:29.928,diesel,114221,478699,hyderabad,888,hatchback,manual,vdi abs,TRUE,11119,71805,1
+607,toyota corolla altis,2011,2021-02-23T14:08:02.58,petrol & cng,121163,357399,mumbai,1452,luxury sedan,,1.8 g,FALSE,8301,53610,2
+608,hyundai i10,2009,2021-03-07T12:10:41.162,petrol,71126,300499,bengaluru,315,hatchback,manual,sportz 1.2,FALSE,6980,45075,2
+609,volkswagen polo,2014,2021-03-31T03:49:19.313,diesel,70965,468999,chennai,326,hatchback,manual,trendline 1.5l diesel,TRUE,10894,70350,1
+610,maruti swift,2015,2021-04-15T07:21:49.831,diesel,97868,381699,gurgaon,98,hatchback,manual,vdi abs,TRUE,8866,57255,1
+611,ford ecosport,2014,2021-03-09T12:36:01.502,diesel,59818,435899,gurgaon,3047,suv,manual,1.5 ambiente tdci,TRUE,10125,65385,1
+612,toyota corolla altis,2008,2021-03-01T17:19:15.95,petrol,81426,223599,mumbai,1632,luxury sedan,,1.8 g,TRUE,5194,33540,3
+613,hyundai i10,2011,2021-02-23T08:57:00.609,petrol,73867,291599,hyderabad,997,hatchback,manual,magna 1.2 kappa2,TRUE,6773,43740,1
+614,hyundai creta,2017,2020-03-28T06:54:37.665,petrol,41831,949799,noida,1472,suv,manual,1.6 sx plus petrol,TRUE,22061,142470,1
+615,maruti zen estilo,2010,2021-03-17T08:43:03.053,petrol & cng,107892,133199,ahmedabad,2858,hatchback,manual,lxi,TRUE,3094,19980,3
+616,maruti ritz,2010,2021-03-23T06:03:58.71,petrol,101633,233999,new delhi,20,hatchback,manual,lxi,TRUE,5435,35100,2
+617,tata tiago,2020,2021-05-05T04:55:15.537,petrol,3282,499199,pune,1242,hatchback,manual,xt 1.2 revotron,TRUE,11595,74880,1
+618,hyundai verna,2013,2021-03-27T09:24:06.281,petrol,190199,480799,bengaluru,773,sedan,manual,fluidic 1.6 sx vtvt opt,TRUE,11168,72120,1
+619,hyundai i10,2010,2021-04-09T10:01:31.567,petrol & cng,37321,257999,mumbai,595,hatchback,manual,magna 1.2 kappa2,TRUE,5993,38700,2
+620,hyundai elite i20,2019,2021-05-21T12:14:01.044,diesel,22902,700000,new delhi,240,hatchback,,1.4 magna plus crdi,FALSE,16259,105000,1
+621,renault kwid,2016,2021-03-07T06:43:43.895,petrol,53414,352399,bengaluru,550,hatchback,manual,rxt opt,TRUE,8185,52860,1
+622,honda city,2014,2021-03-11T05:46:54.485,petrol,171211,405499,new delhi,2013,sedan,manual,s mt petrol,TRUE,9419,60825,1
+623,toyota innova,2012,2021-03-04T00:37:57.083,diesel,170924,483299,noida,3513,suv,manual,2.5 gx 8 str bs iv,TRUE,11226,72495,1
+624,chevrolet beat,2012,2021-03-15T19:54:29.069,petrol,15914,182799,mumbai,2247,hatchback,manual,lt petrol,TRUE,4246,27420,1
+625,datsun redi go,2019,2021-03-05T11:51:33.839,petrol,18090,248099,new delhi,15652,hatchback,manual,t (o),TRUE,5763,37215,1
+626,maruti alto 800,2016,2021-02-23T07:27:25.603,petrol,56491,244399,gurgaon,936,hatchback,manual,lxi,TRUE,5677,36660,1
+627,honda city zx,2008,2021-03-31T12:11:27.269,petrol,94396,299699,chennai,616,sedan,manual,gxi,FALSE,6961,44955,1
+628,maruti swift dzire,2013,2019-12-01T10:19:39.394,diesel,63674,350000,new delhi,152,sedan,manual,vdi bs iv,FALSE,8130,52500,1
+629,hyundai elite i20,2017,2021-02-16T06:03:26.435,petrol,19606,615799,new delhi,2891,hatchback,manual,asta 1.2 (o),TRUE,14303,92370,1
+630,maruti swift dzire,2016,2021-04-12T11:05:33.599,petrol,17477,549299,chennai,1656,sedan,manual,vxi 1.2 bs iv,TRUE,12759,82395,1
+631,honda city,2017,2021-03-12T08:29:04.028,petrol,35805,758099,hyderabad,4137,sedan,manual,v mt petrol,TRUE,17609,113715,2
+632,maruti wagon r 1.0,2013,2021-03-23T09:22:21.049,petrol & cng,115213,279999,mumbai,500,hatchback,manual,lxi cng,TRUE,6504,42000,1
+633,maruti alto k10,2012,2021-03-31T10:05:32.015,petrol,43367,288599,bengaluru,309,hatchback,manual,vxi,TRUE,6703,43290,2
+634,renault kwid,2018,2021-04-09T06:43:32.927,petrol,24199,395399,bengaluru,1164,hatchback,,1.0 rxt opt marvel edition,TRUE,9184,59310,1
+635,maruti wagon r 1.0,2018,2021-03-16T13:08:46.327,petrol,12409,396999,new delhi,2541,hatchback,automatic,vxi amt,TRUE,9221,59550,1
+636,maruti alto k10,2012,2021-04-08T07:23:05.249,petrol,50282,274599,bengaluru,521,hatchback,manual,vxi,TRUE,6378,41190,3
+637,hyundai i10,2010,2021-05-03T07:42:02.241,petrol,95624,297499,hyderabad,171,hatchback,manual,sportz 1.2,TRUE,6910,44625,3
+638,hyundai i10,2011,2021-04-16T07:55:34.833,petrol,55421,274399,hyderabad,1376,hatchback,manual,magna 1.2 kappa2,TRUE,6374,41160,2
+639,hyundai i20,2011,2021-03-24T05:44:34.755,petrol,82861,329099,chennai,504,hatchback,manual,magna o 1.2,TRUE,7644,49365,1
+640,mahindra xuv500,2014,2019-08-26T06:44:29.676,diesel,88029,700000,mumbai,134,suv,manual,w6 4x2,TRUE,16259,105000,1
+641,maruti alto 800,2014,2021-04-07T10:48:16.311,petrol,35406,290399,bengaluru,381,hatchback,manual,lxi,TRUE,6745,43560,1
+642,maruti swift dzire,2012,2020-11-27T07:26:37.804,diesel,105522,326599,noida,465,sedan,manual,vdi bs iv,TRUE,7586,48990,1
+643,honda city,2011,2021-02-23T06:55:41.521,petrol,56727,342699,mumbai,1052,sedan,manual,s mt petrol,TRUE,7960,51405,1
+644,hyundai i10,2010,2021-02-16T11:31:05.101,petrol,38567,312299,bengaluru,3172,hatchback,manual,magna 1.1 irde2,FALSE,7254,46845,1
+645,hyundai elite i20,2019,2021-03-30T11:11:16.358,petrol,7146,812999,mumbai,857,hatchback,,1.2  asta (o) cvt,TRUE,18884,121950,1
+646,hyundai verna,2014,2021-03-10T06:06:48.511,diesel,84647,496099,mumbai,3030,sedan,manual,fluidic 1.6 sx crdi opt,TRUE,11523,74415,1
+647,maruti ertiga,2013,2021-01-29T06:03:54.942,diesel,167408,391899,new delhi,2036,suv,manual,zdi,TRUE,9103,58785,1
+648,maruti alto 800,2016,2021-04-21T07:40:13.437,petrol,18251,305599,chennai,215,hatchback,manual,lxi,TRUE,7098,45840,2
+649,mercedes benz c class,2011,2021-03-10T12:28:33.819,petrol,81190,669799,ahmedabad,3426,luxury sedan,manual,200 cgi avantgarde,TRUE,15558,100470,3
+650,maruti swift dzire,2014,2021-02-11T06:18:44.684,petrol,63051,388799,pune,1688,sedan,manual,vxi 1.2 bs iv,TRUE,9031,58320,1
+651,maruti swift dzire,2014,2020-12-25T10:21:29.934,petrol,42968,439399,mumbai,1726,sedan,manual,zxi 1.2 bs iv,TRUE,10206,65910,1
+652,maruti alto k10,2014,2021-02-07T06:07:07.957,petrol,45043,272399,chennai,1264,hatchback,manual,vxi,TRUE,6327,40860,2
+653,maruti alto k10,2012,2021-02-26T05:40:59.638,petrol,33186,272199,bengaluru,620,hatchback,manual,vxi,FALSE,6322,40830,2
+654,honda city,2012,2021-04-09T11:19:10.772,petrol,88489,355799,new delhi,2829,sedan,manual,v mt petrol,TRUE,8264,53370,2
+655,tata tigor,2017,2021-02-19T11:16:29.113,petrol,46394,393299,new delhi,4991,sedan,manual,revotron xt,TRUE,9135,58995,1
+656,renault scala,2013,2021-03-13T13:35:53.668,diesel,89370,256999,gurgaon,2528,sedan,manual,rxz,TRUE,5969,38550,1
+657,maruti ertiga,2016,2021-04-02T10:50:21.398,petrol & cng,138691,655599,mumbai,1548,suv,manual,vxi cng,TRUE,15228,98340,1
+658,maruti swift,2013,2021-03-23T05:04:57.58,diesel,69448,401899,pune,2983,hatchback,manual,vdi,TRUE,9335,60285,1
+659,maruti swift,2019,2021-04-07T09:57:06.889,petrol,17518,505799,ahmedabad,3633,hatchback,manual,lxi,TRUE,11748,75870,1
+660,chevrolet beat,2011,2021-03-09T12:51:13.894,petrol,46479,248699,bengaluru,1489,hatchback,manual,lt petrol,FALSE,5777,37305,1
+661,hyundai grand i10,2014,2021-02-25T08:40:58.169,petrol,41556,429199,pune,642,hatchback,manual,sports 1.2 vtvt,TRUE,9969,64380,1
+662,maruti swift,2017,2019-09-14T11:03:38.309,diesel,23886,550000,new delhi,295,hatchback,manual,ldi o,TRUE,12775,82500,1
+663,hyundai eon,2012,2021-03-17T13:01:22.081,petrol,70135,239199,bengaluru,1120,hatchback,manual,era plus,TRUE,5556,35880,1
+664,hyundai i20,2013,2021-03-21T05:03:14.699,petrol,34999,481899,bengaluru,1168,hatchback,manual,magna o 1.2,TRUE,11193,72285,1
+665,hyundai eon,2011,2021-01-03T12:27:31.241,petrol,38721,145799,faridabad,5489,hatchback,manual,d lite,TRUE,3387,21870,1
+666,hyundai i10,2009,2021-04-10T10:46:05.773,petrol,88322,259199,hyderabad,357,hatchback,manual,sportz 1.2,TRUE,6021,38880,1
+667,hyundai grand i10,2017,2021-04-16T06:17:33.489,petrol,24433,432299,ghaziabad,1842,hatchback,,sportz(o) 1.2 mt,TRUE,10041,64845,1
+668,renault kwid,2016,2021-01-21T08:20:22.045,petrol,52417,219899,new delhi,2964,hatchback,manual,rxt,TRUE,5108,32985,2
+669,hyundai new elantra,2015,2021-02-20T09:04:57.241,petrol,99951,607799,mumbai,3608,luxury sedan,automatic,sx 1.8 at,TRUE,14118,91170,1
+670,volkswagen vento,2014,2021-04-03T07:03:02.207,petrol,74950,430699,mumbai,711,sedan,manual,highline petrol,TRUE,10004,64605,1
+671,kia seltos,2019,2021-03-19T12:43:12.462,petrol,6243,1041510,chennai,6590,,,htk 1.5 petrol,TRUE,24192,156227,1
+672,hyundai i20,2011,2021-02-20T12:17:24.613,petrol,44007,264999,new delhi,2445,hatchback,manual,magna o 1.2,TRUE,6155,39750,1
+673,maruti swift,2011,2021-03-25T09:59:20.256,diesel,181733,374299,pune,597,hatchback,manual,vdi,TRUE,8694,56145,1
+674,maruti alto,2008,2021-04-18T12:15:24.008,petrol,72819,206499,bengaluru,29,hatchback,manual,lxi,FALSE,4796,30975,3
+675,maruti swift dzire,2013,2021-02-03T14:46:04.167,diesel,154164,310299,new delhi,1473,sedan,manual,vdi bs iv,TRUE,7207,46545,1
+676,maruti vitara brezza,2016,2021-02-19T07:58:29.811,diesel,101529,647999,new delhi,513,suv,manual,zdi,TRUE,15051,97200,1
+677,maruti alto,2012,2021-04-18T06:10:56.035,petrol,12377,220899,pune,671,hatchback,manual,lxi,FALSE,5131,33135,1
+678,hyundai i10,2011,2021-01-07T09:47:15.09,petrol,68764,293099,hyderabad,1881,hatchback,manual,sportz 1.2 kappa2,TRUE,6808,43965,2
+679,maruti swift dzire,2013,2021-03-13T11:16:16.007,petrol,43859,482099,chennai,459,sedan,manual,vxi 1.2 bs iv,TRUE,11198,72315,1
+680,maruti wagon r 1.0,2015,2021-03-15T07:14:03.543,petrol & cng,68611,344999,pune,1210,hatchback,manual,lxi cng,TRUE,8013,51750,3
+681,maruti ritz,2009,2021-03-12T10:35:54.968,petrol,87557,232799,new delhi,358,hatchback,manual,vxi,FALSE,5407,34920,1
+682,maruti eeco,2019,2021-02-18T07:46:58.835,petrol & cng,50814,444499,ahmedabad,550,suv,manual,5 str with ac plushtr,TRUE,10325,66675,1
+683,maruti ciaz,2017,2021-02-17T11:32:39.328,diesel,76837,565699,noida,1458,sedan,manual,vdi+ shvs,TRUE,13140,84855,1
+684,hyundai verna,2013,2021-02-23T14:25:30.978,petrol,66517,397099,mumbai,2802,sedan,manual,fluidic 1.6 ex vtvt,TRUE,9224,59565,2
+685,hyundai elite i20,2015,2021-04-09T06:29:40.984,diesel,76322,572699,pune,1503,hatchback,manual,asta 1.4 crdi,TRUE,13302,85905,1
+686,maruti a star,2011,2021-03-06T12:03:15.5,petrol,31715,179399,mumbai,1202,hatchback,manual,vxi,TRUE,4167,26910,2
+687,nissan sunny,2011,2021-03-20T06:59:35.678,petrol,137729,307199,chennai,1102,sedan,manual,xv petrol,TRUE,7135,46080,1
+688,hyundai elite i20,2016,2020-05-30T13:15:15.406,petrol,14540,575000,pune,312,hatchback,manual,asta 1.2 (o),FALSE,13356,86250,1
+689,maruti celerio,2015,2021-02-27T11:00:31.104,petrol,52458,350599,new delhi,1398,hatchback,automatic,zxi amt,TRUE,8144,52590,1
+690,maruti baleno,2018,2021-03-06T10:18:25.872,petrol,24627,607899,chennai,735,hatchback,manual,delta 1.2 k12,TRUE,14120,91185,1
+691,ford figo,2010,2021-03-21T06:22:50.956,diesel,61379,301199,bengaluru,148,hatchback,manual,1.4 zxi duratorq,TRUE,6996,45180,1
+692,datsun redi go,2017,2021-03-21T08:41:22.994,petrol,16389,303899,hyderabad,4661,hatchback,manual,s,TRUE,7059,45585,1
+693,maruti alto,2007,2021-02-14T10:01:50.162,petrol,59676,103599,faridabad,5986,hatchback,manual,lxi,TRUE,2406,15540,1
+694,hyundai elite i20,2015,2021-03-20T15:45:56.626,petrol,21236,567499,new delhi,4720,hatchback,manual,asta 1.2,TRUE,13182,85125,1
+695,maruti wagon r 1.0,2015,2020-10-19T11:30:04.267,petrol,47506,304399,pune,1643,hatchback,manual,vxi,TRUE,7070,45660,1
+696,hyundai verna,2013,2021-03-14T07:50:10.231,diesel,92521,359199,new delhi,2478,sedan,manual,fluidic 1.6 sx crdi,TRUE,8343,53880,3
+697,toyota etios liva,2012,2021-03-04T08:36:03.259,diesel,190416,306599,mumbai,893,hatchback,manual,gd,FALSE,7122,45990,1
+698,renault kwid,2016,2021-03-02T14:18:41.635,petrol,62730,303099,pune,1023,hatchback,manual,1.0 rxt,TRUE,7040,45465,1
+699,hyundai i20,2012,2021-04-18T08:51:51.211,petrol,36697,389399,mumbai,99,hatchback,manual,sportz 1.2 vtvt,TRUE,9045,58410,2
+700,datsun redi go,2017,2021-03-05T07:54:49.106,petrol,26725,282399,bengaluru,1653,hatchback,manual,t (o),TRUE,6559,42360,1
+701,hyundai i10,2011,2020-12-31T08:02:38.104,petrol,116983,247999,hyderabad,2050,hatchback,manual,magna 1.2 kappa2,TRUE,5760,37200,2
+702,toyota etios,2013,2019-08-22T08:53:26.931,diesel,73361,320000,new delhi,19,sedan,manual,gd,TRUE,7433,48000,1
+703,hyundai grand i10,2016,2021-03-28T08:07:57.497,petrol,24665,427299,gurgaon,1216,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,9925,64095,1
+704,maruti eeco,2017,2021-02-28T06:58:48.821,petrol,15251,384799,bengaluru,1293,suv,manual,5 str with ac plushtr,TRUE,8938,57720,1
+705,hyundai verna,2013,2021-03-09T05:31:49.441,petrol,49259,584799,bengaluru,873,sedan,manual,fluidic 1.6 sx vtvt,TRUE,13583,87720,1
+706,maruti baleno,2016,2021-03-31T07:24:12.374,petrol,34682,494999,bengaluru,1804,hatchback,automatic,delta 1.2 k12 amt,FALSE,11498,74250,3
+707,renault kwid,2016,2021-04-30T22:57:27.492,petrol,64939,297899,mumbai,106,hatchback,manual,rxt,TRUE,6919,44685,2
+708,renault duster,2013,2020-12-22T10:30:01.601,diesel,73503,370999,mumbai,2565,suv,manual,85 ps rxl,TRUE,8617,55650,2
+709,renault duster,2014,2021-03-24T13:15:01.366,diesel,74016,507899,hyderabad,2497,suv,manual,85 ps rxl,TRUE,11797,76185,2
+710,toyota etios liva,2012,2021-02-14T12:36:01.629,petrol,85100,257999,new delhi,1356,hatchback,manual,g,TRUE,5993,38700,2
+711,hyundai i10,2009,2021-03-13T05:45:48.939,petrol,48964,278699,chennai,320,hatchback,manual,magna 1.2,TRUE,6473,41805,1
+712,mahindra scorpio,2015,2021-03-24T08:24:24.865,diesel,60362,865399,ghaziabad,3679,suv,manual,s8,TRUE,20101,129810,2
+713,mercedes benz e class,2013,2021-04-02T14:56:50.485,diesel,41294,1445409,noida,4846,luxury sedan,manual,e 250 cdi avantgarde,TRUE,33573,216812,2
+714,maruti ertiga,2016,2021-04-09T06:30:37.986,diesel,48085,825999,bengaluru,1378,suv,manual,zdi plus shvs,FALSE,19186,123900,1
+715,mahindra xuv500,2014,2021-02-19T09:33:07.227,diesel,97537,694799,mumbai,1130,luxury suv,manual,w8 fwd,TRUE,16138,104220,2
+716,maruti xl6,2019,2021-04-29T13:08:10.306,petrol,14911,1012119,pune,300,suv,,alpha shvs  mt,TRUE,23509,151818,1
+717,maruti wagon r 1.0,2014,2021-03-23T06:00:34.702,petrol & cng,174675,307999,mumbai,277,hatchback,manual,lxi cng,TRUE,7154,46200,1
+718,maruti alto k10,2014,2021-01-17T05:14:42.395,petrol,50599,323299,bengaluru,526,hatchback,manual,vxi,TRUE,7509,48495,1
+719,volkswagen polo,2010,2021-03-23T07:02:14.067,diesel,59580,371299,bengaluru,665,hatchback,manual,highline1.2l diesel,TRUE,8624,55695,1
+720,tata indigo cs,2009,2021-03-31T10:32:12.417,petrol,42165,143399,hyderabad,4000,sedan,manual,glx,TRUE,3331,21510,1
+721,maruti alto,2010,2021-02-18T10:26:17.471,petrol,137382,117099,new delhi,2909,hatchback,manual,lxi,TRUE,2720,17565,1
+722,maruti alto k10,2014,2021-03-28T08:30:57.968,petrol,37168,214699,mumbai,449,hatchback,manual,lxi,TRUE,4987,32205,3
+723,maruti swift,2014,2021-04-13T07:28:25.792,petrol,91931,385399,new delhi,324,hatchback,manual,vxi,TRUE,8952,57810,1
+724,audi q3,2015,2021-03-07T11:46:49.972,diesel,73656,1646803,chennai,7538,luxury suv,automatic,35 tdi quattro,TRUE,38251,247021,2
+725,hyundai i20,2012,2021-02-16T08:10:16.644,petrol,66504,314999,pune,2453,hatchback,manual,asta 1.2,TRUE,7317,47250,2
+726,honda city,2010,2021-04-05T11:40:22.039,petrol,85037,301999,mumbai,364,sedan,manual,s mt petrol,TRUE,7015,45300,1
+727,maruti wagon r 1.0,2012,2021-02-13T04:26:22.806,petrol,29425,313899,bengaluru,5013,hatchback,manual,vxi,FALSE,7291,47085,2
+728,maruti alto 800,2014,2021-03-16T08:52:05.513,petrol,5383,285699,noida,8359,hatchback,manual,vxi,TRUE,6636,42855,1
+729,skoda laura,2009,2019-09-03T10:19:01.141,petrol,67343,300000,new delhi,275,luxury sedan,manual,ambiente 1.8 tsi,TRUE,6968,45000,3
+730,hyundai verna,2013,2021-04-14T13:34:26.012,petrol,58233,439499,new delhi,1449,sedan,manual,fluidic 1.6 ex vtvt,TRUE,10208,65925,1
+731,renault duster,2017,2021-02-27T09:01:05.52,petrol,49922,661599,mumbai,2368,suv,automatic,rxs cvt 106 ps,TRUE,15367,99240,1
+732,hyundai getz prime,2008,2021-03-14T15:30:04.039,petrol,43423,233099,bengaluru,689,hatchback,manual,1.3 gvs,TRUE,5414,34965,1
+733,hyundai i20,2011,2021-04-27T11:25:41.677,petrol,39597,338399,hyderabad,1079,hatchback,manual,magna o 1.2,TRUE,7860,50760,2
+734,hyundai elite i20,2015,2021-03-05T13:03:16.98,petrol,35706,431999,noida,1831,hatchback,manual,magna 1.2,TRUE,10034,64800,1
+735,maruti alto k10,2011,2020-11-28T08:31:50.204,petrol,70996,257199,bengaluru,551,hatchback,manual,vxi,TRUE,5974,38580,1
+736,toyota innova crysta,2016,2021-03-30T07:32:25.524,diesel,51851,1708615,mumbai,2005,suv,automatic,2.8 zx at 7 str,FALSE,39687,256293,2
+737,maruti wagon r 1.0,2013,2021-04-01T07:16:47.022,petrol & cng,62965,298599,new delhi,1652,hatchback,manual,lxi cng,TRUE,6936,44790,1
+738,hyundai i10,2011,2021-02-08T13:36:31.346,petrol,52311,313999,bengaluru,755,hatchback,manual,magna 1.2 kappa2,TRUE,7293,47100,2
+739,maruti wagon r,2009,2021-02-17T09:04:15.257,petrol,66777,209999,bengaluru,2617,hatchback,manual,vxi bs iii,TRUE,4878,31500,3
+740,maruti wagon r 1.0,2015,2021-02-20T11:43:37.491,petrol & cng,6799,378099,mumbai,2161,hatchback,manual,lxi cng,TRUE,8782,56715,1
+741,maruti swift dzire,2014,2021-02-08T11:16:11.321,diesel,155205,476299,hyderabad,1542,sedan,manual,vdi bs iv,TRUE,11063,71445,2
+742,maruti swift dzire,2012,2021-04-01T11:29:21.883,diesel,120777,336299,noida,389,sedan,manual,vdi bs iv,TRUE,7811,50445,1
+743,maruti dzire,2017,2021-02-28T09:02:30.683,petrol,20149,508499,new delhi,3071,sedan,manual,vxi,TRUE,11811,76275,2
+744,honda city,2012,2020-10-29T13:30:01.052,petrol,51808,411499,mumbai,5881,sedan,automatic,v at,TRUE,9558,61725,2
+745,mercedes benz b class,2013,2021-03-21T10:40:19.941,diesel,88600,719499,ahmedabad,3724,luxury suv,manual,b180,FALSE,16712,107925,2
+746,maruti ritz,2011,2021-03-17T09:47:41.6,petrol,66475,241699,mumbai,465,hatchback,manual,vxi bs iv,TRUE,5614,36255,1
+747,maruti wagon r,2010,2021-03-18T13:40:35.473,petrol,37650,232499,lucknow,2573,hatchback,manual,lxi,TRUE,5400,34875,3
+748,maruti alto,2010,2021-03-21T13:08:20.425,petrol,135052,224999,bengaluru,282,hatchback,manual,lxi,TRUE,5226,33750,2
+749,hyundai santro xing,2011,2021-03-29T05:47:25.553,petrol,16261,334199,bengaluru,1670,hatchback,manual,gl plus,TRUE,7763,50130,1
+750,maruti swift dzire,2009,2021-04-11T06:56:49.257,petrol,70988,240599,new delhi,159,sedan,manual,vxi 1.3,TRUE,5589,36090,1
+751,mahindra renault logan,2010,2019-08-22T11:02:53.117,diesel,104324,90000,faridabad,855,sedan,manual,dlx 1.5 dci bs iv,FALSE,2090,13500,1
+752,honda city zx,2006,2019-08-24T09:15:15.601,petrol,53377,100000,lucknow,194,,,1.5 exi,FALSE,2323,15000,5
+753,maruti swift,2012,2020-11-29T13:51:08.844,diesel,164127,273199,gurgaon,907,hatchback,manual,vdi,TRUE,6346,40980,1
+754,hyundai eon,2013,2021-03-02T12:35:17.956,petrol,44854,213599,gurgaon,473,hatchback,manual,era plus,TRUE,4961,32040,1
+755,hyundai elite i20,2014,2021-04-02T08:18:35.68,petrol,65178,420099,noida,1405,hatchback,manual,sportz 1.2,TRUE,9758,63015,1
+756,hyundai new elantra,2012,2021-03-30T05:52:35.858,diesel,108532,488599,mumbai,2221,luxury sedan,,1.6 sx at,TRUE,11349,73290,1
+757,honda city,2010,2021-03-19T09:23:48.062,petrol,113701,353199,new delhi,303,sedan,manual,s mt petrol,TRUE,8204,52980,1
+758,maruti swift,2019,2021-03-26T13:23:57.989,petrol,2576,648899,chennai,1333,hatchback,manual,vxi,TRUE,15072,97335,1
+759,maruti wagon r 1.0,2017,2021-03-23T11:38:56.492,petrol & cng,47637,400299,mumbai,936,hatchback,manual,lxi cng,TRUE,9298,60045,1
+760,maruti alto k10,2015,2021-03-21T11:20:33.126,petrol,11366,329999,pune,1416,hatchback,,vxi amt,TRUE,7665,49500,1
+761,mahindra tuv300,2016,2020-10-15T08:43:42.953,diesel,34658,534599,bengaluru,2323,suv,manual,t6+,TRUE,12417,80190,1
+762,honda city,2015,2020-12-02T10:49:28.181,petrol,38614,702299,bengaluru,1700,sedan,manual,v mt petrol,TRUE,16313,105345,1
+763,hyundai santro xing,2009,2021-03-28T07:28:29.791,petrol & lpg,68306,239999,bengaluru,361,hatchback,manual,gls,TRUE,5575,36000,1
+764,tata tiago,2016,2021-03-27T11:57:13.897,petrol,83614,321099,ahmedabad,981,hatchback,manual,xz 1.2 revotron,TRUE,7458,48165,1
+765,maruti wagon r 1.0,2010,2021-02-15T09:27:37.323,petrol,115045,230999,chennai,536,hatchback,manual,lxi,TRUE,5366,34650,1
+766,honda city,2011,2021-03-09T11:33:16.679,petrol,73611,317299,mumbai,696,sedan,manual,s mt petrol,FALSE,7370,47595,2
+767,maruti alto k10,2013,2021-03-11T10:05:48.846,petrol,36750,236999,gurgaon,1884,hatchback,manual,vxi,TRUE,5505,35550,1
+768,honda jazz,2010,2020-11-16T11:00:01.231,petrol,102047,231899,pune,3321,hatchback,manual,1.2 base i vtec,TRUE,5386,34785,1
+769,hyundai santro xing,2009,2020-10-09T23:30:01.241,petrol,102210,181399,bengaluru,2330,hatchback,manual,gls,FALSE,4213,27210,3
+770,honda amaze,2014,2019-09-11T06:55:37.36,diesel,68279,325000,new delhi,118,sedan,manual,1.5 smt i dtec,TRUE,7549,48750,1
+771,skoda rapid,2017,2021-02-23T14:24:11.498,diesel,38359,826299,pune,3778,sedan,automatic,style 1.5 tdi at,TRUE,19193,123945,1
+772,maruti celerio x,2018,2021-03-04T05:55:30.26,petrol & cng,57877,391699,ahmedabad,5038,hatchback,manual,zxi,TRUE,9098,58755,1
+773,toyota etios,2011,2020-05-25T11:50:50.195,petrol,106451,200000,mumbai,154,sedan,manual,vx,FALSE,4646,30000,2
+774,datsun go,2015,2021-03-27T06:22:28.251,petrol,63585,224499,pune,3923,hatchback,manual,t,TRUE,5215,33675,1
+775,maruti alto,2011,2020-12-27T06:44:29.219,petrol,29879,223999,bengaluru,2102,hatchback,manual,lxi,TRUE,5203,33600,2
+776,maruti wagon r 1.0,2018,2021-02-17T13:26:29.623,petrol,32446,358899,ghaziabad,2198,hatchback,manual,vxi,TRUE,8336,53835,1
+777,maruti ignis,2017,2021-02-23T07:21:21.728,petrol,8480,555699,mumbai,1564,hatchback,automatic,zeta 1.2 k12 amt,FALSE,12907,83355,1
+778,skoda rapid,2014,2021-03-15T13:30:40.828,petrol,83429,505999,bengaluru,1754,sedan,automatic,1.6 mpi at ambition plus,TRUE,11753,75900,1
+779,hyundai i20,2013,2021-03-21T15:32:01.987,petrol,45714,328599,mumbai,2786,hatchback,manual,magna 1.2 vtvt,TRUE,7633,49290,1
+780,hyundai i20,2013,2020-03-28T06:57:27.678,diesel,81344,285199,gurgaon,1027,hatchback,manual,magna 1.4 crdi,TRUE,6624,42780,2
+781,maruti ertiga,2015,2021-02-09T09:02:00.6,petrol & cng,148319,548299,mumbai,817,suv,manual,vxi cng,TRUE,12736,82245,1
+782,maruti celerio,2017,2019-03-24T08:43:48.56,petrol,8865,480000,bengaluru,80,hatchback,manual,vxi (o),FALSE,11149,72000,1
+783,maruti wagon r 1.0,2015,2021-02-20T08:28:44.365,petrol & cng,207086,247799,ghaziabad,1370,hatchback,manual,lxi cng,TRUE,5756,37170,2
+784,hyundai grand i10,2013,2021-03-11T09:11:07.086,petrol,60133,360699,chennai,1212,hatchback,manual,sports 1.2 vtvt,TRUE,8378,54105,2
+785,honda city,2010,2021-04-05T14:47:34.261,petrol,98807,388199,bengaluru,1214,sedan,automatic,v at,FALSE,9017,58230,3
+786,maruti wagon r 1.0,2012,2021-02-17T05:18:42.696,petrol & cng,41964,259499,mumbai,1226,hatchback,manual,lxi cng,FALSE,6028,38925,2
+787,honda city,2010,2020-12-21T13:58:59.147,petrol,122773,263899,new delhi,1590,sedan,manual,s mt petrol,TRUE,6130,39585,1
+788,mahindra xuv500,2012,2021-04-06T12:12:36.908,diesel,163110,531599,pune,1873,luxury suv,manual,w8 fwd,FALSE,12348,79740,1
+789,hyundai i10,2010,2019-09-05T08:31:59.552,petrol,124364,130000,new delhi,166,hatchback,manual,era 1.1 irde,FALSE,3020,19500,1
+790,hyundai verna,2012,2021-03-01T14:40:27.63,diesel,67818,358099,noida,2261,sedan,manual,fluidic 1.6 sx crdi,TRUE,8318,53715,1
+791,hyundai eon,2013,2021-04-07T07:25:49.222,petrol,53063,208499,mumbai,410,hatchback,manual,era plus,TRUE,4843,31275,2
+792,datsun redi go,2018,2021-02-17T10:12:07.699,petrol,1676,243099,pune,2857,hatchback,manual,a,TRUE,5647,36465,1
+793,maruti ciaz,2016,2021-03-09T19:25:59.342,petrol,53647,572999,mumbai,1485,sedan,manual,vxi plus,TRUE,13309,85950,1
+794,hyundai i10,2015,2021-04-06T11:41:10.262,petrol,48590,374499,mumbai,373,hatchback,manual,sportz 1.1 irde2,TRUE,8699,56175,1
+795,maruti alto 800,2016,2021-01-25T11:49:45.921,petrol,23105,224399,noida,3909,hatchback,manual,lxi,TRUE,5212,33660,1
+796,maruti ritz,2011,2021-03-12T13:48:06.663,petrol,97812,262399,mumbai,337,hatchback,manual,zxi,TRUE,6095,39360,1
+797,volkswagen vento,2011,2021-03-01T09:43:46.318,petrol,152770,245599,mumbai,1035,sedan,manual,trendline petrol,TRUE,5705,36840,3
+798,hyundai i10,2011,2021-04-13T10:06:35.821,petrol,93562,294399,hyderabad,260,hatchback,manual,magna 1.2 kappa2,TRUE,6838,44160,2
+799,maruti alto 800,2014,2021-03-31T10:47:43.985,petrol,21725,284399,bengaluru,420,hatchback,manual,lxi,TRUE,6606,42660,1
+800,nissan micra,2011,2021-03-15T14:28:30.134,diesel,105520,259099,chennai,1955,hatchback,manual,xv diesel,TRUE,6018,38865,1
+801,mahindra kuv100,2016,2021-03-12T06:44:45.857,petrol,21041,313099,noida,3978,suv,manual,k4+ 6 str,TRUE,7273,46965,1
+802,honda city,2010,2021-02-10T11:42:38.88,petrol,27657,317499,mumbai,1694,sedan,manual,s mt petrol,TRUE,7375,47625,1
+803,hyundai elite i20,2015,2021-03-24T10:26:56.701,diesel,20971,678399,bengaluru,2117,hatchback,manual,asta 1.4 crdi,TRUE,15758,101760,1
+804,hyundai i20,2012,2021-04-10T11:03:52.74,petrol,91465,298099,pune,686,hatchback,manual,magna 1.2 vtvt,FALSE,6924,44715,1
+805,maruti wagon r 1.0,2013,2021-02-07T07:27:42.821,petrol,54361,248999,pune,1318,hatchback,manual,vxi,TRUE,5784,37350,2
+806,maruti swift dzire,2014,2021-04-05T08:10:31.003,petrol,56002,472699,mumbai,258,sedan,manual,vxi 1.2 bs iv,TRUE,10980,70905,1
+807,hyundai i10,2011,2021-01-22T09:11:43.171,petrol,5044,357399,bengaluru,2859,hatchback,manual,magna 1.2 kappa2,TRUE,8301,53610,1
+808,hyundai grand i10,2014,2021-03-24T13:09:58.685,petrol,110017,323499,noida,480,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,7514,48525,1
+809,hyundai santro xing,2012,2021-03-30T14:13:54.25,petrol,43847,210699,mumbai,659,hatchback,manual,gls,TRUE,4894,31605,3
+810,honda amaze,2018,2021-02-16T06:58:59.239,petrol,12824,681899,bengaluru,1374,sedan,manual,1.2 vxmt i vtec,TRUE,15839,102285,1
+811,hyundai santro xing,2014,2021-03-20T13:05:11.981,petrol & cng,94746,285899,ahmedabad,1338,hatchback,manual,gl plus,TRUE,6641,42885,1
+812,skoda rapid,2011,2021-02-06T13:59:20.103,diesel,154355,374499,bengaluru,1155,sedan,manual,elegance 1.6 tdi mt,TRUE,8699,56175,1
+813,hyundai i10,2010,2021-01-30T12:27:22.146,petrol,111674,176099,new delhi,3638,hatchback,manual,magna 1.2 kappa2,TRUE,4090,26415,1
+814,volkswagen vento,2013,2021-02-26T07:56:58.216,diesel,81479,420299,mumbai,772,sedan,manual,highline diesel,TRUE,9762,63045,2
+815,mahindra kuv100,2016,2021-03-16T07:45:40.366,petrol,27265,369999,chennai,4043,suv,manual,k8 6 str,TRUE,8594,55500,1
+816,hyundai grand i10,2015,2020-12-10T00:30:08.189,petrol,56019,447599,bengaluru,616,hatchback,manual,asta at 1.2 kappa vtvt,TRUE,10397,67140,2
+817,hyundai creta,2019,2021-02-27T09:01:44.231,petrol,9130,900799,new delhi,5318,suv,manual,1.6 e + vtvt,TRUE,20923,135120,1
+818,maruti wagon r 1.0,2017,2021-03-30T08:50:28.914,petrol,12889,432099,pune,3185,hatchback,manual,vxi plus,TRUE,10037,64815,1
+819,hyundai i20,2013,2021-03-02T09:53:01.71,petrol,113370,345299,mumbai,1156,hatchback,manual,sportz 1.2 vtvt,TRUE,8020,51795,1
+820,hyundai grand i10,2013,2021-03-28T07:30:02.666,petrol,120438,373599,bengaluru,658,hatchback,manual,asta 1.2 vtvt,TRUE,8678,56040,1
+821,hyundai verna,2016,2019-08-26T06:00:23.89,petrol,49323,700000,mumbai,534,sedan,manual,fluidic 1.6 sx vtvt,TRUE,16259,105000,1
+822,maruti wagon r 1.0,2012,2020-11-05T11:05:04.181,petrol,98462,238799,mumbai,1205,hatchback,manual,vxi,FALSE,5547,35820,1
+823,hyundai elite i20,2017,2021-03-25T15:14:13.805,petrol,10302,618199,mumbai,556,hatchback,manual,sportz 1.2,FALSE,14359,92730,1
+824,maruti wagon r 1.0,2013,2021-04-05T11:11:23.361,petrol & cng,96602,329499,pune,529,hatchback,manual,lxi cng,FALSE,7653,49425,4
+825,honda amaze,2017,2019-03-18T13:09:31.266,petrol,10143,550000,ahmedabad,226,sedan,manual,1.2 s (o) mt i vtec,FALSE,12775,82500,1
+826,maruti ritz,2013,2020-09-10T01:30:01.496,petrol,75842,238599,mumbai,1588,hatchback,manual,vxi bs iv,FALSE,5542,35790,2
+827,maruti ertiga,2016,2021-02-21T05:13:57.426,diesel,169374,703899,chennai,1108,suv,manual,zdi plus shvs,TRUE,16350,105585,1
+828,hyundai creta,2015,2020-11-13T10:45:36.11,petrol,58585,732299,new delhi,960,suv,manual,1.6 sx plus petrol,TRUE,17009,109845,1
+829,renault kwid,2016,2021-02-16T07:45:32.384,petrol,30632,346499,bengaluru,1173,hatchback,manual,rxt opt,TRUE,8048,51975,1
+830,maruti ertiga,2012,2021-03-28T13:34:39.611,petrol,41547,476999,mumbai,2809,suv,manual,vxi,FALSE,11079,71550,1
+831,maruti baleno,2017,2021-04-19T16:53:23.9,diesel,76217,582299,new delhi,273,hatchback,manual,alpha ddis 190,TRUE,13525,87345,2
+832,hyundai i20,2011,2021-03-21T08:46:55.151,petrol,30746,251099,gurgaon,2193,hatchback,manual,era 1.2,TRUE,5832,37665,1
+833,maruti wagon r 1.0,2012,2021-03-31T09:57:13.756,petrol,21852,302099,mumbai,367,hatchback,manual,vxi,TRUE,7017,45315,1
+834,maruti ertiga,2016,2021-03-09T11:58:43.4,diesel,43399,761399,mumbai,1128,suv,manual,vdi shvs,TRUE,17685,114210,1
+835,maruti alto 800,2016,2021-02-08T13:24:40.165,petrol & cng,57923,237199,new delhi,1091,hatchback,manual,lxi,TRUE,5510,35580,1
+836,hyundai i10,2013,2021-04-06T09:52:11.497,petrol,100679,246499,ahmedabad,882,hatchback,manual,era 1.1 irde,TRUE,5726,36975,1
+837,maruti swift,2014,2021-02-18T10:50:32.112,petrol & cng,39571,376099,new delhi,1759,hatchback,manual,vxi,TRUE,8736,56415,1
+838,maruti swift,2012,2021-02-10T06:26:15.697,diesel,82585,302399,new delhi,67,hatchback,manual,vdi,TRUE,7024,45360,1
+839,hyundai i20,2011,2021-02-18T09:24:01.109,petrol,80612,251799,mumbai,455,hatchback,manual,sportz 1.2 o,FALSE,5849,37770,2
+840,hyundai elite i20,2015,2021-03-17T13:05:17.072,petrol,23973,559399,ahmedabad,2926,hatchback,manual,asta 1.2,TRUE,12993,83910,1
+841,mercedes benz c class,2008,2020-11-29T18:30:01.448,diesel,83474,200000,new delhi,803,luxury sedan,,c 220 cdi elegance mt,TRUE,4646,30000,2
+842,hyundai new santro,2019,2021-03-21T13:05:54.986,petrol,13427,500199,lucknow,2870,,,sportz 1.1,TRUE,11618,75030,1
+843,hyundai eon,2014,2021-04-06T08:20:45.658,petrol,29661,291899,bengaluru,848,hatchback,manual,era plus,TRUE,6780,43785,1
+844,audi q3,2016,2019-08-24T06:33:40.437,diesel,68290,2750000,mumbai,185,luxury suv,automatic,35 tdi premium plus,FALSE,63876,412500,1
+845,maruti swift,2012,2020-05-31T03:17:52.644,petrol,61782,300000,new delhi,742,hatchback,manual,zxi,FALSE,6968,45000,2
+846,hyundai grand i10,2013,2021-03-27T08:05:12.184,petrol,85110,341799,new delhi,904,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,7939,51270,1
+847,hyundai elite i20,2016,2021-03-06T08:14:08.641,diesel,88378,508499,new delhi,1541,hatchback,manual,1.4 crdi asta (o),TRUE,11811,76275,1
+848,hyundai grand i10,2017,2021-03-21T11:06:26.284,petrol,21830,574799,hyderabad,2545,hatchback,,sportz (o) 1.2 at vtvt,TRUE,13351,86220,1
+849,hyundai i10,2009,2020-11-04T08:31:24.685,petrol,97719,228299,bengaluru,550,hatchback,manual,sportz 1.2,TRUE,5303,34245,3
+850,honda civic,2010,2021-03-20T09:20:55.434,petrol,66894,423899,bengaluru,1861,sedan,automatic,1.8v at,TRUE,9846,63585,3
+851,volkswagen jetta,2015,2021-04-13T10:55:26.372,diesel,96631,1052216,pune,894,sedan,automatic,highline tdi at,TRUE,24440,157833,1
+852,mahindra xuv500,2015,2020-12-20T09:00:01.263,diesel,119932,733899,mumbai,1235,luxury suv,manual,w8 fwd,TRUE,17047,110085,2
+853,mahindra thar,2014,2020-06-01T13:13:38.053,diesel,78542,420000,pune,567,suv,manual,crde 4x4 bs iv,FALSE,9756,63000,1
+854,renault duster,2013,2021-04-01T14:01:11.065,diesel,120039,331799,ghaziabad,1213,suv,manual,85 ps rxl,TRUE,7707,49770,1
+855,mahindra scorpio,2014,2021-01-25T06:01:39.531,diesel,24847,880799,ghaziabad,5473,suv,manual,s10,TRUE,20459,132120,1
+856,hyundai i10,2010,2021-03-23T06:25:21.254,petrol,43890,322399,bengaluru,112,hatchback,manual,magna 1.2,TRUE,7489,48360,2
+857,maruti swift dzire,2013,2021-04-15T11:10:38.652,diesel,108631,471799,hyderabad,551,sedan,manual,vdi bs iv,TRUE,10959,70770,2
+858,tata tiago,2019,2021-03-12T10:21:06.833,petrol,43346,453399,chennai,1422,hatchback,manual,xz 1.2 revotron,TRUE,10531,68010,1
+859,hyundai i10,2011,2021-03-28T05:11:13.605,petrol,95082,252799,ahmedabad,407,hatchback,manual,magna 1.2 kappa2,FALSE,5872,37920,1
+860,maruti ertiga,2017,2019-03-28T10:40:09.626,petrol & cng,73340,612000,pune,546,suv,manual,vxi cng,FALSE,14215,91800,1
+861,honda wr-v,2017,2021-04-03T13:52:13.058,diesel,31874,714199,new delhi,840,suv,manual,1.5 i-dtec vx mt,TRUE,16589,107130,1
+862,hyundai verna,2013,2021-01-08T09:32:47.656,diesel,49718,397499,new delhi,3558,sedan,manual,fluidic 1.6 sx crdi,TRUE,9233,59625,1
+863,toyota etios,2011,2021-03-15T05:50:25.666,petrol,13579,402399,bengaluru,23375,sedan,manual,v,FALSE,9347,60360,1
+864,maruti wagon r 1.0,2016,2021-02-06T10:24:09.531,petrol & cng,48003,347699,mumbai,2450,hatchback,manual,lxi cng,TRUE,8076,52155,1
+865,skoda rapid,2015,2021-03-12T08:31:15.194,diesel,78966,457099,bengaluru,1818,sedan,manual,1.5 tdi mt ambition,TRUE,10617,68565,3
+866,hyundai santro xing,2010,2021-04-07T09:32:05.054,petrol & lpg,44077,263599,hyderabad,901,hatchback,manual,gls lpg,TRUE,6123,39540,1
+867,hyundai creta,2017,2021-03-03T10:53:51.43,petrol,17713,987199,hyderabad,3784,suv,manual,1.6 sx plus petrol,TRUE,22930,148080,1
+868,hyundai i20,2010,2021-03-21T05:17:04.149,petrol,75640,256099,new delhi,357,hatchback,manual,sportz 1.2 o,TRUE,5949,38415,2
+869,maruti swift,2018,2021-02-22T12:57:12.685,petrol,14695,607399,bengaluru,1304,hatchback,manual,vxi,TRUE,14108,91110,1
+870,honda amaze,2016,2021-04-06T09:33:42.067,petrol,24434,504699,ahmedabad,1415,sedan,manual,1.2 smt i vtec,TRUE,11723,75705,1
+871,maruti eeco,2018,2021-03-23T09:54:40.883,petrol,31895,430999,bengaluru,415,suv,manual,5 str with ac plushtr,TRUE,10011,64650,1
+872,hyundai santro xing,2009,2021-04-17T09:28:04.4,petrol,71417,215899,ahmedabad,153,hatchback,manual,gls,TRUE,5015,32385,2
+873,maruti zen estilo,2010,2021-03-19T17:44:48.995,petrol,67593,184799,mumbai,741,hatchback,manual,vxi,TRUE,4292,27720,1
+874,hyundai i20,2011,2021-02-04T13:05:56.137,petrol,38857,371199,bengaluru,2038,hatchback,manual,magna o 1.2,TRUE,8622,55680,1
+875,hyundai i20,2014,2021-05-28T11:01:32.046,petrol,51261,499000,mumbai,39,hatchback,manual,sportz 1.2 vtvt,FALSE,11591,74850,1
+876,hyundai i10,2014,2021-03-23T12:32:03.92,petrol,13068,386099,mumbai,1029,hatchback,manual,magna 1.1 irde2,TRUE,8968,57915,1
+877,hyundai i20,2013,2021-02-15T11:45:08.741,petrol,74457,386299,chennai,1359,hatchback,manual,asta 1.2,TRUE,8973,57945,2
+878,renault duster,2015,2021-02-01T09:14:38.727,diesel,171979,475399,mumbai,1458,suv,manual,85 ps rxe,TRUE,11042,71310,1
+879,mercedes benz e class,2013,2021-02-10T07:10:51.971,diesel,52110,1352489,gurgaon,2555,luxury sedan,manual,e 220 cdi elegance,TRUE,31415,202874,1
+880,hyundai grand i10,2017,2020-12-18T10:39:51.679,petrol,10172,460999,pune,774,hatchback,manual,magna 1.2 kappa vtvt,TRUE,10708,69150,1
+881,maruti wagon r 1.0,2012,2021-02-11T18:13:56.49,petrol & cng,104227,275599,mumbai,1257,hatchback,manual,lxi cng,TRUE,6401,41340,1
+882,hyundai elite i20,2015,2021-02-27T09:34:08.564,diesel,47644,491399,new delhi,2709,hatchback,manual,magna 1.4 crdi,TRUE,11414,73710,1
+883,renault duster,2012,2021-03-04T10:41:56.043,diesel,115024,484199,bengaluru,1546,suv,manual,85 ps rxl,TRUE,11247,72630,2
+884,toyota etios,2011,2021-04-03T09:20:01.375,diesel,130494,380299,bengaluru,1135,sedan,manual,gd,TRUE,8833,57045,1
+885,toyota innova,2010,2021-04-14T11:54:40.755,diesel,205948,530699,pune,963,suv,manual,2.5 g4 7 str,TRUE,12327,79605,2
+886,maruti alto,2009,2021-04-09T06:03:21.423,petrol,39622,164499,pune,881,hatchback,manual,lxi,FALSE,3821,24675,1
+887,volkswagen polo,2012,2021-02-15T09:24:51.759,petrol,38023,322699,pune,2580,hatchback,manual,highline1.2l petrol,TRUE,7495,48405,1
+888,honda city,2015,2021-04-16T11:18:51.641,petrol,59851,559599,noida,1133,sedan,manual,v mt petrol,TRUE,12998,83940,1
+889,mg hector,2019,2021-04-03T08:26:43.772,petrol,83351,1477426,gurgaon,1328,,,sharp dct petrol,TRUE,34317,221614,1
+890,honda br-v,2016,2021-03-11T15:05:18.617,petrol,14173,676899,pune,3308,suv,manual,1.5 i-vtec vx,TRUE,15723,101535,1
+891,volkswagen polo,2015,2021-04-04T06:43:35.033,petrol,84079,474999,pune,522,hatchback,manual,highline1.2l petrol,TRUE,11033,71250,1
+892,mahindra scorpio,2012,2020-08-02T09:13:10.558,diesel,87063,390000,new delhi,547,suv,manual,sle bs iv,TRUE,9059,58500,1
+893,tata tiago,2016,2021-03-10T12:28:49.386,petrol,43387,329199,new delhi,2933,hatchback,manual,xm 1.2 revotron,TRUE,7646,49380,1
+894,mahindra tuv300,2017,2020-12-19T11:00:03.212,diesel,32394,705499,mumbai,1714,suv,manual,t8,TRUE,16387,105825,1
+895,maruti celerio,2014,2021-02-09T11:17:28.266,petrol,43981,291699,ahmedabad,4552,hatchback,manual,vxi,FALSE,6775,43755,1
+896,hyundai santro xing,2011,2021-03-12T07:21:44.318,petrol,88720,261699,hyderabad,1991,hatchback,manual,gl plus,TRUE,6079,39255,1
+897,maruti swift,2018,2020-11-03T07:47:45.87,petrol,50364,589399,bengaluru,2657,hatchback,manual,vxi,TRUE,13690,88410,1
+898,bmw x1,2016,2021-03-08T09:57:36.583,diesel,25485,1818604,new delhi,7453,luxury suv,automatic,sdrive 20d,TRUE,42242,272791,2
+899,hyundai elite i20,2019,2021-02-25T14:00:05.842,petrol,8746,650999,bengaluru,2850,hatchback,,1.2 magna plus vtvt,TRUE,15121,97650,1
+900,maruti alto 800,2012,2021-04-14T13:22:51.301,petrol,126375,202099,gurgaon,372,hatchback,manual,lxi,TRUE,4694,30315,2
+901,hyundai verna,2014,2021-03-31T06:35:15.038,diesel,186575,400599,noida,1511,sedan,manual,fluidic 1.6 sx crdi,TRUE,9305,60090,3
+902,maruti alto k10,2016,2021-03-17T09:48:56.991,petrol,8545,361299,chennai,940,hatchback,,vxi (o) amt,TRUE,8392,54195,1
+903,hyundai elite i20,2014,2021-03-16T09:35:16.531,petrol & cng,78930,431399,faridabad,1659,hatchback,manual,asta 1.2,TRUE,10020,64710,2
+904,maruti alto k10,2016,2021-04-18T05:43:14.151,petrol,23199,376499,chennai,147,hatchback,,vxi amt,TRUE,8745,56475,1
+905,mahindra xuv500,2012,2020-08-14T12:39:25.828,diesel,59608,438099,new delhi,10575,luxury suv,manual,w8 fwd,TRUE,10176,65715,1
+906,maruti ertiga,2016,2021-03-22T11:53:33.815,diesel,59802,788499,pune,1491,suv,manual,zdi plus shvs,TRUE,18315,118275,1
+907,hyundai grand i10,2014,2021-02-16T14:28:50.005,petrol,138853,322499,new delhi,634,hatchback,manual,magna 1.2 kappa vtvt,TRUE,7491,48375,1
+908,hyundai elite i20,2015,2020-05-05T20:32:10.82,petrol,41701,516000,bengaluru,328,hatchback,manual,sportz 1.2,FALSE,11985,77400,1
+909,hyundai elite i20,2016,2021-04-06T05:54:48.206,petrol,39768,650799,bengaluru,900,hatchback,manual,asta 1.2 (o),TRUE,15116,97620,1
+910,volkswagen polo,2014,2021-02-09T14:29:32.793,petrol,49253,517299,mumbai,888,hatchback,automatic,gt tsi 1.2 petrol at,TRUE,12016,77595,1
+911,toyota fortuner,2017,2021-04-08T08:28:30.013,diesel,81861,2571559,mumbai,1827,luxury suv,automatic,2.8 4x2 at,TRUE,59731,385734,1
+912,mercedes benz c class,2017,2019-09-10T12:20:38.576,diesel,10579,3250000,gurgaon,414,luxury sedan,manual,c 220 cdi style,FALSE,75489,487501,1
+913,datsun go plus,2016,2021-03-18T13:11:02.838,petrol,32405,300399,hyderabad,3878,hatchback,manual,t,TRUE,6978,45060,1
+914,maruti wagon r,2008,2021-03-18T05:19:33.226,petrol,77123,138299,pune,2470,hatchback,manual,lxi,TRUE,3212,20745,2
+915,maruti ciaz,2015,2021-04-05T05:24:52.852,petrol,60900,620299,bengaluru,797,sedan,manual,vxi plus,TRUE,14408,93045,1
+916,maruti baleno,2016,2021-03-29T13:39:04.374,petrol,60068,556199,chennai,157,hatchback,manual,delta 1.2 k12,TRUE,12919,83430,1
+917,maruti alto k10,2015,2021-03-12T08:36:58.91,petrol,12657,293899,mumbai,481,hatchback,manual,vxi,FALSE,6827,44085,1
+918,maruti swift dzire,2013,2021-03-08T06:09:18.034,diesel,83315,372199,new delhi,319,sedan,manual,vdi bs iv,TRUE,8645,55830,1
+919,hyundai i20,2010,2021-02-22T12:41:42.156,petrol,38182,259399,mumbai,1579,hatchback,manual,magna o 1.2,FALSE,6025,38910,1
+920,nissan micra active,2016,2021-03-19T12:37:07.042,petrol,63814,404399,bengaluru,1059,hatchback,manual,xv s,TRUE,9393,60660,1
+921,mahindra tuv300,2016,2021-04-01T13:19:48.937,diesel,69884,504299,faridabad,1504,suv,manual,t6+,TRUE,11714,75645,1
+922,maruti alto,2009,2021-03-22T09:05:17.374,petrol,35094,156599,pune,1522,hatchback,manual,lxi,TRUE,3637,23490,1
+923,maruti eeco,2017,2021-03-18T14:56:51.28,petrol & cng,111095,297299,new delhi,1398,suv,manual,5 str with ac plushtr,TRUE,6906,44595,1
+924,hyundai creta,2015,2021-04-17T13:16:28.657,diesel,97803,888899,mumbai,457,suv,automatic,1.6 crdi sx plus auto,TRUE,20647,133335,1
+925,toyota etios,2011,2020-12-16T13:11:13.039,diesel,100743,231699,new delhi,1605,sedan,manual,vd,TRUE,5382,34755,1
+926,maruti wagon r 1.0,2012,2021-01-13T11:03:23.383,petrol,50014,255199,mumbai,1502,hatchback,manual,vxi,TRUE,5928,38280,1
+927,maruti alto k10,2013,2021-03-18T10:53:40.01,petrol & cng,99985,201799,noida,1415,hatchback,manual,vxi,TRUE,4687,30270,1
+928,ford figo,2011,2021-02-13T12:25:13.585,petrol,97608,181899,pune,2959,hatchback,manual,1.2 zxi duratec,TRUE,4225,27285,2
+929,maruti wagon r 1.0,2011,2021-04-02T07:17:47.46,petrol,63165,320599,hyderabad,693,hatchback,manual,lxi,TRUE,7447,48090,1
+930,maruti vitara brezza,2019,2021-03-08T15:06:50.344,diesel,39681,771599,new delhi,3101,suv,manual,vdi,TRUE,17922,115740,1
+931,hyundai grand i10,2018,2021-02-26T08:01:00.562,petrol,21074,562399,bengaluru,1196,hatchback,manual,sports 1.2 vtvt,TRUE,13063,84360,1
+932,chevrolet spark,2013,2021-03-09T15:49:15.678,petrol,28778,180899,mumbai,3684,hatchback,manual,lt 1.0,TRUE,4202,27135,1
+933,ford figo,2012,2021-03-02T17:55:21.69,diesel,60930,216199,faridabad,4561,hatchback,manual,1.4 lxi duratorq,FALSE,5022,32430,1
+934,kia seltos,2019,2021-03-31T13:00:02.078,petrol,5348,1734168,mumbai,1446,,,gtx+ 1.4 mt,TRUE,40280,260126,1
+935,hyundai creta,2015,2021-03-11T06:10:26.593,diesel,86573,934599,bengaluru,1848,suv,,1.6 sx crdi,TRUE,21708,140190,1
+936,toyota etios,2013,2021-03-16T08:58:10.956,diesel,60472,492099,bengaluru,1410,sedan,manual,vd,TRUE,11430,73815,2
+937,ford ecosport,2018,2021-02-26T09:29:18.385,diesel,71483,797399,hyderabad,3012,suv,manual,1.5titanium tdci,TRUE,18522,119610,1
+938,hyundai verna,2014,2021-03-06T12:27:26.681,diesel,84023,491399,ghaziabad,2035,sedan,manual,fluidic 1.6 sx crdi opt,TRUE,11414,73710,1
+939,maruti ertiga,2018,2020-05-25T10:58:27.911,petrol & cng,10312,775000,mumbai,472,suv,manual,vxi cng,FALSE,18001,116250,1
+940,maruti swift,2014,2021-03-20T08:35:27.423,petrol,32555,397899,new delhi,1488,hatchback,manual,vxi,TRUE,9242,59685,1
+941,hyundai i10,2015,2021-03-05T08:47:00.819,petrol,30511,316699,ahmedabad,2881,hatchback,manual,sportz 1.1 irde2,TRUE,7356,47505,1
+942,ford figo,2010,2021-02-13T10:20:09.741,diesel,116520,251099,bengaluru,1293,hatchback,manual,1.4 titanium duratorq,TRUE,5832,37665,2
+943,hyundai grand i10,2017,2021-03-18T12:52:48.577,petrol,30373,425699,new delhi,553,hatchback,manual,sportz o 1.2,TRUE,9888,63855,1
+944,chevrolet sail uva,2015,2021-04-02T06:10:44.105,diesel,57445,199799,mumbai,4971,hatchback,manual,1.3 base,TRUE,4641,29970,2
+945,maruti eeco,2010,2021-04-05T12:37:38.181,petrol,51536,232199,chennai,2019,suv,manual,5 str,FALSE,5393,34830,3
+946,tata nano,2016,2021-03-07T10:16:47.784,petrol,14330,205899,bengaluru,931,hatchback,automatic,twist xta,TRUE,4783,30885,3
+947,maruti alto,2010,2021-01-02T05:02:36.691,petrol,42016,133199,new delhi,412,hatchback,manual,lxi,TRUE,3094,19980,1
+948,maruti zen estilo,2011,2021-03-27T13:42:13.501,petrol,43511,252699,bengaluru,887,hatchback,manual,vxi,FALSE,5870,37905,3
+949,maruti ritz,2013,2021-03-05T13:57:07.658,petrol,57033,323699,chennai,1196,hatchback,manual,vxi bs iv,TRUE,7519,48555,1
+950,hyundai i10,2012,2021-02-19T09:25:50.586,petrol,24076,244799,mumbai,642,hatchback,manual,era 1.1 irde,TRUE,5686,36720,1
+951,maruti ciaz,2017,2021-04-04T10:43:53.299,diesel,69848,615099,ghaziabad,1377,sedan,manual,vdi+ shvs,TRUE,14287,92265,1
+952,tata tiago,2016,2021-03-26T16:26:35.922,petrol,39149,341599,new delhi,1894,hatchback,manual,xm 1.2 revotron,TRUE,7934,51240,1
+953,maruti eeco,2010,2021-04-06T09:24:35.535,petrol,58745,222999,pune,1609,suv,manual,5 str with ac plushtr,TRUE,5180,33450,2
+954,maruti ritz,2009,2021-03-13T09:59:49.339,petrol,75433,203099,gurgaon,513,hatchback,manual,vxi,TRUE,4717,30465,1
+955,hyundai santro xing,2013,2021-04-23T13:29:16.346,petrol,50603,231299,pune,716,hatchback,manual,gls,TRUE,5372,34695,1
+956,maruti swift dzire,2013,2021-03-25T05:14:08.29,diesel,53065,407799,mumbai,925,sedan,manual,ldi bs iv,TRUE,9472,61170,1
+957,maruti ciaz,2014,2021-02-23T13:08:50.505,diesel,46586,605099,bengaluru,986,sedan,manual,zdi,TRUE,14055,90765,2
+958,maruti celerio,2016,2021-03-10T13:01:12.376,petrol & cng,37772,426399,mumbai,900,hatchback,manual,vxi cng,TRUE,9904,63960,1
+959,maruti alto k10,2014,2021-03-25T11:45:26.221,petrol,24316,274399,new delhi,1809,hatchback,,vxi amt,TRUE,6374,41160,2
+960,renault kwid,2016,2020-12-13T11:00:05.518,petrol,44582,237499,mumbai,4632,hatchback,manual,rxt,TRUE,5517,35625,2
+961,maruti ciaz,2017,2021-03-26T08:28:56.164,petrol,83043,630899,mumbai,810,sedan,automatic,zxi amt,FALSE,14654,94635,1
+962,hyundai i10,2011,2021-04-15T10:07:31.184,petrol,65816,354199,hyderabad,523,hatchback,automatic,sportz 1.2 at kappa2,TRUE,8227,53130,2
+963,hyundai eon,2017,2021-04-07T09:00:01.435,petrol,35926,332999,hyderabad,812,hatchback,manual,sportz,TRUE,7735,49950,1
+964,maruti swift,2019,2021-02-02T09:11:48.194,petrol,12889,582599,chennai,1982,hatchback,manual,vxi,TRUE,13532,87390,1
+965,hyundai verna,2014,2021-03-10T11:42:06.549,diesel,74024,456999,pune,2141,sedan,manual,fluidic 1.4 crdi cx,FALSE,10615,68550,2
+966,maruti baleno,2016,2021-03-19T08:18:28.329,petrol,48541,533599,gurgaon,796,hatchback,,zeta 1.2 k12 cvt,TRUE,12394,80040,1
+967,honda city,2012,2020-11-16T12:42:15.503,petrol,81212,325799,new delhi,2509,sedan,automatic,s at,TRUE,7567,48870,2
+968,maruti swift dzire,2014,2021-01-10T12:37:28.715,diesel,87125,493599,bengaluru,801,sedan,manual,vdi bs iv,TRUE,11465,74040,2
+969,volkswagen polo,2011,2021-04-10T09:20:55.96,petrol,61129,217299,new delhi,1875,hatchback,manual,comfortline 1.2l petrol,TRUE,5047,32595,2
+970,maruti swift,2014,2021-03-18T12:26:39.749,diesel,40375,443599,chennai,3940,hatchback,manual,vdi,TRUE,10304,66540,1
+971,renault kwid,2018,2021-04-10T07:46:14.994,petrol,3517,422099,pune,1401,hatchback,automatic,rxt 1.0 easy-r at option,TRUE,9804,63315,1
+972,maruti swift,2015,2021-04-02T09:12:18.175,petrol,65380,441799,ahmedabad,818,hatchback,manual,vxi,FALSE,10262,66270,1
+973,hyundai venue,2019,2021-04-10T13:16:40.4,petrol,7857,1031006,lucknow,2844,suv,,1.0 turbo gdi sx+ at,TRUE,23948,154651,1
+974,maruti swift dzire,2014,2021-04-19T12:10:52.524,petrol,88009,416599,mumbai,198,sedan,manual,vxi 1.2 bs iv,TRUE,9677,62490,1
+975,volkswagen polo,2012,2021-03-09T08:24:28.542,diesel,149569,238699,ghaziabad,88,hatchback,manual,comfortline 1.2l diesel,TRUE,5544,35805,1
+976,maruti ignis,2017,2020-11-15T10:30:00.44,petrol,31152,526899,mumbai,1242,hatchback,automatic,zeta 1.2 k12 amt,TRUE,12239,79035,1
+977,hyundai i20,2013,2020-12-25T11:29:47.351,diesel,81363,387199,chennai,1741,hatchback,manual,sportz 1.4 crdi,TRUE,8994,58080,2
+978,maruti ciaz,2017,2021-02-02T12:20:26.861,petrol,61838,603699,noida,1577,sedan,manual,zxi plus,TRUE,14022,90555,1
+979,maruti celerio,2017,2021-03-27T10:49:29.611,petrol,163124,389899,bengaluru,663,hatchback,manual,vxi,TRUE,9056,58485,1
+980,hyundai grand i10,2014,2021-04-13T05:43:53.553,petrol & cng,75691,377199,pune,663,hatchback,manual,sportz 1.2 kappa vtvt,TRUE,8761,56580,1
+981,tata zest,2016,2021-04-05T09:16:45.83,diesel,61903,397999,chennai,1310,sedan,,xm quadrajet 75ps,TRUE,9245,59700,1
+982,skoda rapid,2012,2021-04-04T08:05:53.493,petrol,53525,293599,mumbai,1889,sedan,manual,elegance 1.6 mpfi mt,TRUE,6820,44040,2
+983,hyundai verna,2015,2019-08-27T06:00:53.486,diesel,72206,550000,new delhi,122,sedan,manual,fluidic 1.6 sx crdi,FALSE,12775,82500,2
+984,maruti eeco,2019,2021-02-13T05:57:59.435,petrol & cng,27346,449199,ahmedabad,644,suv,manual,5 str with ac plushtr,TRUE,10434,67380,1
+985,toyota fortuner,2011,2021-02-17T12:08:00.031,diesel,190068,829399,mumbai,2157,luxury suv,manual,3.0 mt 4x4,TRUE,19265,124410,2
+986,skoda rapid,2012,2021-02-21T05:42:38.197,diesel,182075,258499,new delhi,1616,sedan,manual,1.6 tdi mt ambition,TRUE,6004,38775,1
+987,maruti swift,2018,2021-03-13T11:38:18.55,petrol,26202,624999,bengaluru,401,hatchback,manual,vxi,TRUE,14517,93750,1
+988,maruti swift,2017,2021-03-17T12:30:40.878,petrol,24104,535399,hyderabad,2835,hatchback,manual,vxi,TRUE,12436,80310,1
+989,maruti alto k10,2017,2021-02-24T10:44:58.039,petrol,18913,294299,gurgaon,2151,hatchback,manual,vxi,TRUE,6836,44145,2
+990,maruti wagon r,2010,2019-09-06T04:00:37.33,petrol,66102,150000,new delhi,138,hatchback,manual,lxi,TRUE,3484,22500,1
+991,maruti wagon r 1.0,2012,2021-03-31T11:33:32.622,petrol,40091,310599,mumbai,245,hatchback,manual,vxi,TRUE,7214,46590,1
+992,maruti zen estilo,2010,2020-12-15T14:34:32.735,petrol,40225,213599,bengaluru,1453,hatchback,manual,lxi,TRUE,4961,32040,2
+993,maruti alto 800,2015,2021-04-06T11:33:24.506,petrol,32821,232199,ahmedabad,1733,hatchback,manual,vxi,TRUE,5393,34830,1
+994,maruti alto k10,2010,2021-02-19T05:23:22.199,petrol,40666,189699,new delhi,1327,hatchback,manual,vxi,TRUE,4406,28455,1
+995,volkswagen jetta,2012,2021-03-20T09:07:40.447,petrol,88973,448699,new delhi,1171,sedan,manual,trendline 1.4 tsi mt,TRUE,10422,67305,2
+996,maruti 800,2002,2019-12-31T16:07:01.563,petrol & lpg,77323,35000,ahmedabad,492,hatchback,manual,ac,FALSE,813,5250,2
+997,honda amaze,2018,2021-02-07T08:05:30.443,diesel,53486,604299,ghaziabad,2756,sedan,,1.5 v cvt i-dtec,TRUE,14036,90645,1
+998,maruti ignis,2018,2021-03-31T10:21:56.289,petrol,8854,562599,chennai,640,hatchback,manual,delta 1.2 k12,TRUE,13068,84390,1
+999,honda amaze,2015,2021-03-04T12:40:38.652,petrol,46300,400499,pune,795,sedan,manual,1.2 smt i vtec,TRUE,9303,60075,1
+1000,maruti alto k10,2016,2021-03-16T13:31:39.766,petrol,27245,284099,new delhi,1155,hatchback,manual,lxi,TRUE,6599,42615,1
+1001,maruti alto k20,2004,2021-03-16T13:31:39.766,petrol,27245,284099,new delhi,1155,hatchback,manual,lxi,TRUE,6599,42615,1
+1002,maruti suzuki,2002,2019-12-31T16:07:01.563,petrol & lpg,77323,35000,ahmedabad,492,hatchback,manual,ac,FALSE,813,5250,2

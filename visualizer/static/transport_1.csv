@@ -1,0 +1,12 @@
+id,car_name,yr_mfr,date_mfr,fuel_type,kms_run,sale_price,city,times_viewed,body_type,transmission,variant,assured_buy,emi_starts_from,booking_down_pymnt,total_owners
+1,maruti swift dzire,2012,2021-03-16T05:00:49.555,petrol,69029,364299,pune,2068,sedan,manual,vxi 1.2 bs iv,TRUE,8462,54645,3
+2,hyundai eon,2013,2021-03-10T12:08:11.905,petrol,45721,216799,gurgaon,903,hatchback,manual,era plus,TRUE,5036,32520,1
+3,honda amaze,2013,2021-03-15T12:03:30.041,diesel,37395,387399,pune,2809,sedan,manual,1.5 smt i dtec,TRUE,8998,58110,1
+4,hyundai i20,2012,2021-04-09T11:16:26.157,petrol,37652,364699,bengaluru,1054,hatchback,manual,magna o 1.2,TRUE,8471,54705,3
+5,hyundai creta,2017,2021-04-01T07:24:31.712,diesel,53648,1082011,lucknow,2927,suv,automatic,1.6 crdi sx plus auto,TRUE,25132,162302,1
+6,renault duster,2016,2021-03-20T08:11:03.55,petrol,55724,695999,bengaluru,889,suv,manual,rxl petrol 104,TRUE,16166,104400,1
+7,hyundai i10,2010,2021-04-07T05:42:09.856,petrol,59295,286399,chennai,506,hatchback,manual,sportz 1.2 kappa2,TRUE,6652,42960,2
+8,hyundai neo,2017,2021-04-01T07:24:31.712,petrol,53648,1082011,lucknow,2927,suv,automatic,1.6 crdi sx plus auto,TRUE,25132,162302,1
+9,renault duster 1,2016,2021-03-20T08:11:03.55,deisel,55724,695999,bengaluru,889,suv,manual,rxl petrol 104,TRUE,16166,104400,1
+10,hyundai i20,2010,2021-04-07T05:42:09.856,deisel,59295,286399,chennai,506,hatchback,manual,sportz 1.2 kappa2,TRUE,6652,42960,2
+11,hyundai i10,2013,2021-03-17T12:13:32.082,deisel,11420,270799,pune,863,hatchback,manual,sportz 1.2 kappa2,TRUE,6290,40620,2

@@ -1,0 +1,138 @@
+{% load static %}
+
+<head>
+    <title>Mercados Table and Chart View</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+<!-- Create a div where the graph will take place -->
+
+<body>
+    <div class="container">
+        <img src="https://mercadosemi.in/images/Mercados_Logo.png" class="company-logo" style="width: 150px;" />
+        <h2 class="text-center"><u>Mercados Table and Chart View</u></h2><br>
+        <table id="example" class="table table-dark table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Fuel Type</th>
+                    <th>Car Name</th>
+                    <th>Year of Manufacture</th>
+                    <th>Date of Manufacture</th>
+                    <th>Distance Covered (Kms)</th>
+                    <th>Sale price (INR)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- jinja2 Technique -->
+                {% if transport_data %}
+                {% for i in transport_data %}
+                <tr>
+                    <td>{{i.id}}</td>
+                    <td>{{i.fuel_type}}</td>
+                    <td>{{i.car_name}}</td>
+                    <td>{{i.yr_mfr}}</td>
+                    <td>{{i.date_mfr}}</td>
+                    <td>{{i.kms_run}}</td>
+                    <td>{{i.sale_price}}</td>
+                </tr>
+                {% endfor %}
+                {% endif %}
+            </tbody>
+        </table>
+    </div>
+
+
+    <div id="my_dataviz"></div>
+
+
+    <script>
+        $(document).ready(function () {
+            draw_chart();
+            var t = $('#example').DataTable({
+                "pagingType": "full_numbers"
+            });
+        });
+
+        // set the dimensions and margins of the graph
+        function draw_chart() {
+            var margin = { top: 10, right: 30, bottom: 30, left: 60 },
+                width = 460 - margin.left - margin.right,
+                height = 400 - margin.top - margin.bottom;
+
+            // append the svg object to the body of the page
+            var svg = d3.select("#my_dataviz")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            //Read the data
+
+            d3.csv('/static/transport.csv', function (data) {
+
+                // group the data: one array for each value of the X axis.
+                var sumstat = d3.nest()
+                    .key(function (d) { return d.yr_mfr; })
+                    .entries(data);
+
+                // Stack the data: each group will be represented on top of each other
+                var mygroups = ["petrol", "diesel"] // list of group names
+                var mygroup = [0, 1] // list of group names
+                var stackedData = d3.stack()
+                    .keys(mygroup)
+                    .value(function (d, key) {
+                        console.log("d: ", d)
+                        console.log("key", key)
+                        debugger;
+                        return d.values[key].kms_run
+                    })
+                    (sumstat)
+
+                // Add X axis --> it is a date format
+                var x = d3.scaleLinear()
+                    .domain(d3.extent(data, function (d) { return d.yr_mfr; }))
+                    .range([0, width]);
+                svg.append("g")
+                    .attr("transform", "translate(0," + height + ")")
+                    .call(d3.axisBottom(x).ticks(5));
+
+                // Add Y axis
+                var y = d3.scaleLinear()
+                    .domain([0, d3.max(data, function (d) { console.log("idhar: ", d); return +d.kms_run; }) * 1.2])
+                    .range([height, 0]);
+                svg.append("g")
+                    .call(d3.axisLeft(y));
+
+                // color palette
+                var color = d3.scaleOrdinal()
+                    .domain(mygroups)
+                    .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33', '#a65628', '#f781bf', '#999999'])
+
+                // Show the areas
+                svg
+                    .selectAll("mylayers")
+                    .data(stackedData)
+                    .enter()
+                    .append("path")
+                    .style("fill", function (d) { name = mygroups[d.key - 1]; return color(name); })
+                    .attr("d", d3.area()
+                        .x(function (d, i) { return x(d.data.key); })
+                        .y0(function (d) { return y(d[0]); })
+                        .y1(function (d) { return y(d[1]); })
+                    )
+
+            })
+        }
+    </script>
+</body>
