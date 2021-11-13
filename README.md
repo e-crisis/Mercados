@@ -17,6 +17,6 @@ Steps to run the app:
 6. Dowload the data file present in this location visualizer/static.
 7. Upload the data file to the database.
 8. Run the django server.
-9. Go to localhost:8000/login to go to the login page.
-10. Use username - sauvikmondal, password - Paassword@95
-11. It will redirect to /charts page which will display the table and chart.
+9. Register user at /register.
+10. Go to localhost:8000/login to go to the login page to login with your credentials.
+12. It will redirect to /charts page which will display the table and chart.
