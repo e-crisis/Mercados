@@ -1,0 +1,9 @@
+<head>
+    <link rel="stylesheet" href="../../accounts/style.css" />
+</head>
+<img src="https://mercadosemi.in/images/Mercados_Logo.png" class="company-logo" style="width: 150px;" />
+<form action="{% url 'login' %}" method="post">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit" id="submit">Login</button>
+</form>
